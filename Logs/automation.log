@@ -1,0 +1,27 @@
+10/03/2022 03:27:21 PM ====== WebDriver manager ======
+10/03/2022 03:27:22 PM Get LATEST chromedriver version for google-chrome 105.0.5195
+10/03/2022 03:27:33 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+10/03/2022 04:03:53 PM ====== WebDriver manager ======
+10/03/2022 04:03:54 PM Get LATEST chromedriver version for google-chrome 105.0.5195
+10/03/2022 04:03:54 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+10/03/2022 04:03:55 PM ******** Test 1: Verify the Login Page title ******
+10/03/2022 04:04:19 PM ====== WebDriver manager ======
+10/03/2022 04:04:20 PM Get LATEST chromedriver version for google-chrome 105.0.5195
+10/03/2022 04:04:20 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+10/03/2022 04:04:21 PM ******** Test 1: Verify the Login Page title ******
+10/03/2022 04:04:25 PM ******** Test 1: FAILED Login Page title is incorrect ******
+10/03/2022 04:22:10 PM ====== WebDriver manager ======
+10/03/2022 04:22:10 PM Get LATEST chromedriver version for google-chrome 105.0.5195
+10/03/2022 04:22:11 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+10/03/2022 04:22:12 PM ******** Test 1: Verify the Login Page title ******
+10/03/2022 04:22:16 PM ******** Test 1: FAILED Login Page title is incorrect ******
+10/03/2022 05:17:24 PM ====== WebDriver manager ======
+10/03/2022 05:17:24 PM Get LATEST chromedriver version for google-chrome 105.0.5195
+10/03/2022 05:17:25 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+10/03/2022 05:17:26 PM ******** Test 1: Verify the Login Page title ******
+10/03/2022 05:17:51 PM ******** Test 1: FAILED Login Page title is incorrect ******
+10/03/2022 06:12:27 PM ====== WebDriver manager ======
+10/03/2022 06:12:28 PM Get LATEST chromedriver version for google-chrome 105.0.5195
+10/03/2022 06:12:29 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+10/03/2022 06:12:30 PM ******** Test 1: Verify the Login Page title ******
+10/03/2022 06:12:34 PM ******** Test 1: FAILED Login Page title is incorrect ******
