@@ -66,3 +66,13 @@
 10/05/2022 02:18:29 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
 10/05/2022 02:18:31 PM ******** Test 2: Verify the Dashboard title ******
 10/05/2022 02:18:41 PM ******** Test 2: PASSED Dashboard Title is as expected ******
+10/05/2022 02:24:51 PM ====== WebDriver manager ======
+10/05/2022 02:24:51 PM Get LATEST chromedriver version for google-chrome 105.0.5195
+10/05/2022 02:24:52 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+10/05/2022 02:24:53 PM ******** Test 1: Verify the Login Page title ******
+10/05/2022 02:24:58 PM ******** Test 1: PASSED Login page title is verified ******
+10/05/2022 02:25:00 PM ====== WebDriver manager ======
+10/05/2022 02:25:01 PM Get LATEST chromedriver version for google-chrome 105.0.5195
+10/05/2022 02:25:01 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+10/05/2022 02:25:04 PM ******** Test 2: Verify the Dashboard title ******
+10/05/2022 02:25:07 PM ******** Test 2: PASSED Dashboard Title is as expected ******
