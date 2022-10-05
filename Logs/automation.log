@@ -25,3 +25,24 @@
 10/03/2022 06:12:29 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
 10/03/2022 06:12:30 PM ******** Test 1: Verify the Login Page title ******
 10/03/2022 06:12:34 PM ******** Test 1: FAILED Login Page title is incorrect ******
+10/05/2022 12:37:02 PM ====== WebDriver manager ======
+10/05/2022 12:37:05 PM Get LATEST chromedriver version for google-chrome 105.0.5195
+10/05/2022 12:37:05 PM About to download new driver from https://chromedriver.storage.googleapis.com/105.0.5195.52/chromedriver_win32.zip
+10/05/2022 12:37:07 PM Driver has been saved in cache [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\105.0.5195]
+10/05/2022 12:37:09 PM ******** Test 1: Verify the Login Page title ******
+10/05/2022 12:37:13 PM ******** Test 1: FAILED Login Page title is incorrect ******
+10/05/2022 12:37:41 PM ====== WebDriver manager ======
+10/05/2022 12:37:41 PM Get LATEST chromedriver version for google-chrome 105.0.5195
+10/05/2022 12:37:42 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+10/05/2022 12:37:43 PM ******** Test 1: Verify the Login Page title ******
+10/05/2022 12:37:46 PM ******** Test 1: FAILED Login Page title is incorrect ******
+10/05/2022 12:38:41 PM ====== WebDriver manager ======
+10/05/2022 12:38:41 PM Get LATEST chromedriver version for google-chrome 105.0.5195
+10/05/2022 12:38:42 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+10/05/2022 12:38:43 PM ******** Test 1: Verify the Login Page title ******
+10/05/2022 12:38:47 PM ******** Test 1: PASSED Login page title is verified ******
+10/05/2022 12:38:47 PM ====== WebDriver manager ======
+10/05/2022 12:38:47 PM Get LATEST chromedriver version for google-chrome 105.0.5195
+10/05/2022 12:38:48 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+10/05/2022 12:38:51 PM ******** Test 2: Verify the Dashboard title ******
+10/05/2022 12:38:55 PM ******** Test 2: PASSED Dashboard Title is as expected ******
