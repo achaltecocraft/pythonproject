@@ -5,6 +5,8 @@ from testCases.conftest import chrome_driver_init
 from webdriver_manager.chrome import ChromeDriverManager
 from utilities.customLogger import LogGenclass
 from utilities.readProperties import Readconfig
+import datetime
+import os
 
 
 # driver = chromedriver_autoinstaller.install()
@@ -15,8 +17,15 @@ class Test_001_Login:
     baseurl = Readconfig.getUrlapp() #"https://admin-demo.nopcommerce.com/"
     username = Readconfig.getUsername() #"admin@yourstore.com"
     password = Readconfig.getPassword() #"admin"
-    ss_homepagetitle = "..\\TestScreenshots\\" + "test_1_homePageTitle.png"
-    ss_Login = ".\\TestScreenshots\\" + "test_2_Login.png"
+
+    # Make new Directory everytime in 'TestScreenshots' directory with timestamp
+    # And save screenshot in newly generated directory
+
+    path = '../TestScreenshots/'
+    DateString = datetime.datetime.now().strftime("%Y_%m_%d_%H_%M_%S")
+    os.chdir(path)
+    NewFolder = 'TestDate_' + DateString
+    os.makedirs(NewFolder)
     logger = LogGenclass().loggenmethod()  # method call of class - LogGenclass()
 
 
@@ -28,19 +37,19 @@ class Test_001_Login:
         print("\nTest 1: Verify the Login Page title")
         act_title = self.driver.title
 
-        if act_title == "Your store. Login":
+        if act_title == "Your store. Login12":
             print("Login Page Title is as expected\n")
             self.logger.info("******** Test 1: PASSED Login page title is verified ******")
             self.driver.close()
             assert True
         else:
-            self.driver.save_screenshot(self.ss_homepagetitle)
+            self.driver.save_screenshot(self.NewFolder + '/test1_Loginpage.png')
             print("Login Page Title is not as expected\n")
             self.logger.info("******** Test 1: FAILED Login Page title is incorrect ******")
             self.driver.close()
             assert False
 
-    def test_Login(self, chrome_driver_init):
+    def Test_Login(self, chrome_driver_init):
 
         self.driver = chrome_driver_init
         self.driver.get(self.baseurl)
@@ -61,3 +70,13 @@ class Test_001_Login:
             print("Dashboard Title is not as expected\n")
             self.logger.info("******** Test 2: FAILED Dashboard Title is incorrect ******")
             assert False
+
+
+
+
+"""
+    #old way to store screenshot in 'TestScreenshots'
+    ss_homepagetitle = '../TestScreenshots/test_1_LoginPageTitle.png'
+    ss_Login = '../TestScreenshots/test_2_DashboardPageTitle.png' 
+    
+"""
