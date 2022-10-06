@@ -3,11 +3,13 @@ import pytest
 from selenium import webdriver
 import selenium
 from webdriver_manager.chrome import ChromeDriverManager
+from selenium.webdriver.chrome.service import Service #impor service for 'service=Service(ChromeDriverManager().install())'
 
 
 @pytest.fixture
 def chrome_driver_init(browser):
-   driver = webdriver.Chrome(ChromeDriverManager().install())
+   #driver = webdriver.Chrome(ChromeDriverManager().install()) #it gived warning in terminal:- DeprecationWarning: executable_path
+   driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
    return driver
 
 
