@@ -5,9 +5,9 @@ from testCases.conftest import chrome_driver_init
 from webdriver_manager.chrome import ChromeDriverManager
 from utilities.customLogger import LogGenclass
 from utilities.readProperties import Readconfig
-import datetime
-import os
-import warnings
+import datetime  #for screenshot directory timestamp
+import os        #for make directory and value get for datastring
+import warnings  #for terminal warning
 
 
 # driver = chromedriver_autoinstaller.install()

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eea51866-95ce-439d-b541-fe95ae8171fe" name="Changes" comment="service=Service added" />
+    <list default="true" id="eea51866-95ce-439d-b541-fe95ae8171fe" name="Changes" comment="commit">
+      <change beforePath="$PROJECT_DIR$/testCases/test_Login.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCases/test_Login.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -185,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665055771141</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="commit">
+      <created>1665055913402</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1665055913402</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -227,8 +236,8 @@
     <MESSAGE value="configuration of variable done" />
     <MESSAGE value="automation logger file example" />
     <MESSAGE value="Screenshot with timestamp folder" />
-    <MESSAGE value="commit" />
     <MESSAGE value="service=Service added" />
-    <option name="LAST_COMMIT_MESSAGE" value="service=Service added" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>
