@@ -7,6 +7,7 @@ from utilities.customLogger import LogGenclass
 from utilities.readProperties import Readconfig
 import datetime
 import os
+import warnings
 
 
 # driver = chromedriver_autoinstaller.install()
@@ -18,16 +19,15 @@ class Test_001_Login:
     username = Readconfig.getUsername() #"admin@yourstore.com"
     password = Readconfig.getPassword() #"admin"
 
+    logger = LogGenclass().loggenmethod()  # method call of class - LogGenclass()
+
     # Make new Directory everytime in 'TestScreenshots' directory with timestamp
     # And save screenshot in newly generated directory
-
-    path = '../TestScreenshots/'
+    path = r'C:\Users\Achal Trivedi\PycharmProjects\pythonproject\TestScreenshots' #'../TestScreenshots/'
     DateString = datetime.datetime.now().strftime("%Y_%m_%d_%H_%M_%S")
     os.chdir(path)
     NewFolder = 'TestDate_' + DateString
     os.makedirs(NewFolder)
-    logger = LogGenclass().loggenmethod()  # method call of class - LogGenclass()
-
 
     def test_homePageTitle(self, chrome_driver_init):
 
@@ -37,7 +37,7 @@ class Test_001_Login:
         print("\nTest 1: Verify the Login Page title")
         act_title = self.driver.title
 
-        if act_title == "Your store. Login12":
+        if act_title == "Your store. Login":
             print("Login Page Title is as expected\n")
             self.logger.info("******** Test 1: PASSED Login page title is verified ******")
             self.driver.close()
@@ -46,10 +46,11 @@ class Test_001_Login:
             self.driver.save_screenshot(self.NewFolder + '/test1_Loginpage.png')
             print("Login Page Title is not as expected\n")
             self.logger.info("******** Test 1: FAILED Login Page title is incorrect ******")
+            warnings.warn(UserWarning("**** Test 1 Warning:- AssertError:Login Page Title is incorrect")) #terminal warning
             self.driver.close()
             assert False
 
-    def Test_Login(self, chrome_driver_init):
+    def test_Login(self, chrome_driver_init):
 
         self.driver = chrome_driver_init
         self.driver.get(self.baseurl)
@@ -65,10 +66,13 @@ class Test_001_Login:
             assert True
             print("Dashboard Title is as expected\n")
             self.logger.info("******** Test 2: PASSED Dashboard Title is as expected ******")
+            self.driver.close()
         else:
-            self.driver.save_screenshot(self.ss_Login)
+            self.driver.save_screenshot(self.NewFolder + '/test2_Dashboardpage.png')
             print("Dashboard Title is not as expected\n")
             self.logger.info("******** Test 2: FAILED Dashboard Title is incorrect ******")
+            warnings.warn(UserWarning("**** Test 2 Warning:- AssertError: DashboardPage Title is incorrect"))  # terminal warning
+            self.driver.close()
             assert False
 
 
