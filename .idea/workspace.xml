@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eea51866-95ce-439d-b541-fe95ae8171fe" name="Changes" comment="commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/automation.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TestScreenshots/test_1_homePageTitle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testCases/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCases/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testCases/test_Login.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCases/test_Login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utilities/customLogger.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/customLogger.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utilities/readProperties.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/readProperties.py" afterDir="false" />
-    </list>
+    <list default="true" id="eea51866-95ce-439d-b541-fe95ae8171fe" name="Changes" comment="service=Service added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -179,7 +171,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665052702565</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="service=Service added">
+      <created>1665055751853</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1665055751853</updated>
+    </task>
+    <task id="LOCAL-00012" summary="service=Service added">
+      <created>1665055771141</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1665055771141</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -222,6 +228,7 @@
     <MESSAGE value="automation logger file example" />
     <MESSAGE value="Screenshot with timestamp folder" />
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="service=Service added" />
+    <option name="LAST_COMMIT_MESSAGE" value="service=Service added" />
   </component>
 </project>
