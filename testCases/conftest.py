@@ -28,7 +28,7 @@ def setup(browser):
       print("Edge Browser is Launching.....")
    return driver
 
-#driver = webdriver.Chrome(ChromeDriverManager().install()) #it gived warning in terminal:- DeprecationWarning: executable_path
+#without 'service=Service' gives warning in terminal:- "DeprecationWarning: executable_path"
 
 def pytest_addoption(parser):
    parser.addoption("--browser") # This will get the value from CLI/hooks
@@ -37,6 +37,24 @@ def pytest_addoption(parser):
 @pytest.fixture
 def browser(request):  # This will return the broswer value to setup method
    return request.config.getoption("--browser")
+
+
+######## pytest HTML report ##########
+
+# It is hook for adding environment info to HTML report
+def pytest_configure(config):
+   config._metadata['Project Name'] = 'nop Commerece'
+   config._metadata['Module Name'] = 'Customer'
+   config._metadata['Tester Name'] = 'Achal'
+
+#It is hook for Delete/modify Environment info for HTML report
+@pytest.mark.optionalhook
+def pytest_metadata(metadata):
+   metadata.pop("JAVA_HOME", None)
+   metadata.pop("Plugins", None)
+
+
+
 
 
 """

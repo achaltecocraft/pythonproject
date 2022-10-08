@@ -9,6 +9,7 @@ class LogGenclass():
             logging.basicConfig(filename=r'C:\Users\achal\PycharmProjects\pythonproject\Logs\automation.log', format='%(asctime)s %(message)s',
                                 datefmt='%m/%d/%Y %I:%M:%S %p', level=logging.INFO)
             logger = logging.getLogger()
+
         return logger
 
 #logging.basicConfig(filename='../Logs/automation.log', format='%(asctime)s %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p', level=logging.INFO)

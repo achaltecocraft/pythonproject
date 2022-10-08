@@ -1,12 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eea51866-95ce-439d-b541-fe95ae8171fe" name="Changes" comment="commit 9:00 8/10 timestamp in utility">
+    <list default="true" id="eea51866-95ce-439d-b541-fe95ae8171fe" name="Changes" comment="commit 11:50 8/10 solved screenshot directory issue and cross broswer">
+      <change afterPath="$PROJECT_DIR$/Reports/assets/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestScreenshots/test1/Test_shots_2022_10_09_00_37_07/Login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestScreenshots/test1/Test_shots_2022_10_09_00_38_16/Login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestScreenshots/test1/Test_shots_2022_10_09_00_42_25/Login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestScreenshots/test1/Test_shots_2022_10_09_00_43_57/Login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestScreenshots/test1/Test_shots_2022_10_09_00_45_50/Login.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TestScreenshots/test1/Test_shots_2022_10_09_00_50_30/Login.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" beforeDir="false" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Configuration/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Configuration/config.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCases/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCases/conftest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testCases/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCases/test_login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utilities/readProperties.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/readProperties.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilities/customLogger.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/customLogger.py" afterDir="false" />
     </list>
     <list id="ae198da2-b459-422c-8898-8ab6f2091b53" name="No need to commit" comment="">
       <change beforePath="$PROJECT_DIR$/Logs/automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/automation.log" afterDir="false" />
@@ -44,6 +51,9 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="d497fd75-b184-477b-a8e7-790f45fb7ae8" />
   </component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
@@ -186,7 +196,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665242856189</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="commit 11:50 8/10 solved screenshot directory issue and cross broswer">
+      <created>1665253037889</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1665253037889</updated>
+    </task>
+    <task id="LOCAL-00010" summary="commit 11:50 8/10 solved screenshot directory issue and cross broswer">
+      <created>1665253141851</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1665253141851</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -259,6 +283,7 @@
     <MESSAGE value="commit 2:00 8/10" />
     <MESSAGE value="commit 4:00 8/10 multibrower in conftest" />
     <MESSAGE value="commit 9:00 8/10 timestamp in utility" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 9:00 8/10 timestamp in utility" />
+    <MESSAGE value="commit 11:50 8/10 solved screenshot directory issue and cross broswer" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 11:50 8/10 solved screenshot directory issue and cross broswer" />
   </component>
 </project>
