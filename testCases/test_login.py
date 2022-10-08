@@ -13,9 +13,6 @@ class Test_001_Login:
     baseurl = Readconfig.getUrlapp() #"https://admin-demo.nopcommerce.com/"
     username = Readconfig.getUsername() #"admin@yourstore.com"
     password = Readconfig.getPassword() #"admin"
-    #screenshotfolder = Readconfig.getScreenshotFolder()
-   # ss_login = Readconfig.getlogindirectory() + '/Login.png'
-    #ss_dahsboad = Readconfig.getdashboarddirectory() + '/Dashboad.png'
 
     logger = LogGenclass().loggenmethod()  # method call of class - LogGenclass()
 
