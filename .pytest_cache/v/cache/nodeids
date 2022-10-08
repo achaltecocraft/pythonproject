@@ -1,4 +1,6 @@
 [
   "testCases/test_Login.py::Test_001_Login::test_Login",
-  "testCases/test_Login.py::Test_001_Login::test_homePageTitle"
+  "testCases/test_Login.py::Test_001_Login::test_homePageTitle",
+  "testCases/test_login.py::Test_001_Login::test_Login",
+  "testCases/test_login.py::Test_001_Login::test_homePageTitle"
 ]

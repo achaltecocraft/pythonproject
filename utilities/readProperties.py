@@ -1,4 +1,6 @@
 import configparser
+import datetime
+import os
 
 config = configparser.RawConfigParser()
 config.read(r'C:\Users\achal\PycharmProjects\pythonproject\Configuration\config.ini') #'../Configuration/config.ini'
@@ -21,7 +23,18 @@ class Readconfig():
         passwrd = config.get('common info', 'password')
         return passwrd
 
-# CONFIG.READ PATH TESTING
+    @staticmethod
+    def getScreenshotFolder():
+        path = config.get('common info', 'direcrotypath')
+        DateString = datetime.datetime.now().strftime("%Y_%m_%d_%H_%M_%S")
+        os.chdir(path)
+        NewFolder = 'Test_shots_' + DateString
+        os.makedirs(NewFolder)
+        return NewFolder
+
+
+
+# CONFIG.READ PATH
 # "..\\Configuration\\config.ini"  //working
 #../Configuration/config.ini  //working
 #r'C:\Users\Achal Trivedi\PycharmProjects\pythonproject\Configuration\config.ini' //working

@@ -1,12 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eea51866-95ce-439d-b541-fe95ae8171fe" name="Changes" comment="commit 2:00 8/10">
+    <list default="true" id="eea51866-95ce-439d-b541-fe95ae8171fe" name="Changes" comment="commit 4:00 8/10 multibrower in conftest">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" beforeDir="false" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/lastfailed" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Logs/automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/automation.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" beforeDir="false" afterPath="$PROJECT_DIR$/.pytest_cache/v/cache/nodeids" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Configuration/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Configuration/config.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testCases/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCases/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testCases/test_Login.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCases/test_Login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testCases/test_Login.py" beforeDir="false" afterPath="$PROJECT_DIR$/testCases/test_login.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utilities/readProperties.py" beforeDir="false" afterPath="$PROJECT_DIR$/utilities/readProperties.py" afterDir="false" />
+    </list>
+    <list id="ae198da2-b459-422c-8898-8ab6f2091b53" name="No need to commit" comment="">
+      <change beforePath="$PROJECT_DIR$/Logs/automation.log" beforeDir="false" afterPath="$PROJECT_DIR$/Logs/automation.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,8 +56,9 @@
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Configuration/config.ini" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/testCases/conftest.py" root0="SKIP_INSPECTION" />
-    <setting file="file://$PROJECT_DIR$/testCases/test_Login.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/testCases/test_login.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/utilities/customLogger.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/utilities/readProperties.py" root0="SKIP_INSPECTION" />
   </component>
@@ -75,8 +81,8 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python tests.pytest in test_Login.py">
-    <configuration name="Python tests in test_Login.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.pytest in test_login.py">
+    <configuration name="Python tests in test_login.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="pythonproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,11 +92,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/testCases/test_Login.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testCases/test_login.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest in test_Login.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in test_login.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="pythonproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -102,14 +108,14 @@
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_parameters" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/testCases/test_Login.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testCases/test_login.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest in test_Login.py" />
-        <item itemvalue="Python tests.Python tests in test_Login.py" />
+        <item itemvalue="Python tests.pytest in test_login.py" />
+        <item itemvalue="Python tests.Python tests in test_login.py" />
       </list>
     </recent_temporary>
   </component>
@@ -138,6 +144,7 @@
     </task>
     <task active="true" id="Default" summary="Default task">
       <changelist id="eea51866-95ce-439d-b541-fe95ae8171fe" name="Changes" comment="feature 5/10/22" />
+      <changelist id="ae198da2-b459-422c-8898-8ab6f2091b53" name="No need to commit" comment="" />
       <created>1664947489930</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -164,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1665217847635</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="commit 4:00 8/10 multibrower in conftest">
+      <created>1665224389424</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1665224389424</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -204,6 +218,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feature 5/10/22" />
     <MESSAGE value="commit 2:00 8/10" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit 2:00 8/10" />
+    <MESSAGE value="commit 4:00 8/10 multibrower in conftest" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 4:00 8/10 multibrower in conftest" />
   </component>
 </project>

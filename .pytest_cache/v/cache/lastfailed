@@ -1,4 +1,6 @@
 {
   "testCases/test_Login.py::Test_001_Login": true,
-  "testCases/test_Login.py::Test_001_Login::test_Login": true
+  "testCases/test_Login.py::Test_001_Login::test_Login": true,
+  "testCases/test_login.py": true,
+  "gw1": true
 }

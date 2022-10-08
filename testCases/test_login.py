@@ -13,16 +13,9 @@ class Test_001_Login:
     baseurl = Readconfig.getUrlapp() #"https://admin-demo.nopcommerce.com/"
     username = Readconfig.getUsername() #"admin@yourstore.com"
     password = Readconfig.getPassword() #"admin"
+    screenshotfolder = Readconfig.getScreenshotFolder()
 
     logger = LogGenclass().loggenmethod()  # method call of class - LogGenclass()
-
-    # Make new Directory everytime in 'TestScreenshots' directory with timestamp
-    # And save screenshot in newly generated directory
-    path = r'C:\Users\achal\PycharmProjects\pythonproject\TestScreenshots' #'../TestScreenshots/'
-    DateString = datetime.datetime.now().strftime("%Y_%m_%d_%H_%M_%S")
-    os.chdir(path)
-    NewFolder = 'TestDate_' + DateString
-    os.makedirs(NewFolder)
 
     def test_homePageTitle(self, setup):
 
@@ -32,20 +25,20 @@ class Test_001_Login:
         print("\nTest 1: Verify the Login Page title")
         act_title = self.driver.title
 
-        if act_title == "Your store. Login":
+        if act_title == "Your store. Login123":
             print("Login Page Title is as expected\n")
             self.logger.info("******** Test 1: PASSED Login page title is verified ******")
             self.driver.close()
             assert True
         else:
-            self.driver.save_screenshot(self.NewFolder + '/test1_Loginpage.png')
+            self.driver.save_screenshot(self.screenshotfolder+ '/Login.png')
             print("Login Page Title is not as expected\n")
             self.logger.info("******** Test 1: FAILED Login Page title is incorrect ******")
             warnings.warn(UserWarning("**** Test 1 Warning:- AssertError:Login Page Title is incorrect")) #terminal warning
             self.driver.close()
             assert False
 
-    def test_Login(self, setup):
+    def Test_Login(self, setup):
 
         self.driver = setup
         self.driver.get(self.baseurl)
@@ -77,5 +70,13 @@ class Test_001_Login:
     #old way to store screenshot in 'TestScreenshots'
     ss_homepagetitle = '../TestScreenshots/test_1_LoginPageTitle.png'
     ss_Login = '../TestScreenshots/test_2_DashboardPageTitle.png' 
+    
+    # Make new Directory everytime in 'TestScreenshots' directory with timestamp
+    # And save screenshot in newly generated directory
+    path = '../TestScreenshots/'
+    DateString = datetime.datetime.now().strftime("%Y_%m_%d_%H_%M_%S")
+    os.chdir(path)
+    NewFolder = 'TestDate_' + DateString
+    os.makedirs(NewFolder)
     
 """
