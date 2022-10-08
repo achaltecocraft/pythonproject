@@ -24,13 +24,24 @@ class Readconfig():
         return passwrd
 
     @staticmethod
-    def getScreenshotFolder():
-        path = config.get('common info', 'direcrotypath')
+    def getlogindirectory():
+        path = config.get('common info', 'loginpath')
         DateString = datetime.datetime.now().strftime("%Y_%m_%d_%H_%M_%S")
         os.chdir(path)
-        NewFolder = 'Test_shots_' + DateString
-        os.makedirs(NewFolder)
-        return NewFolder
+        loginnewfolder = 'Test_shots_' + DateString
+        if not os.path.exists(loginnewfolder):
+          os.makedirs(loginnewfolder)
+        return loginnewfolder
+
+    @staticmethod
+    def getdashboarddirectory():
+        path = config.get('common info', 'dashboadpath')
+        DateString = datetime.datetime.now().strftime("%Y_%m_%d_%H_%M_%S")
+        os.chdir(path)
+        dashboardnewfolder = 'Test_shots_' + DateString
+        if not os.path.exists(dashboardnewfolder):
+          os.makedirs(dashboardnewfolder)
+        return dashboardnewfolder
 
 
 

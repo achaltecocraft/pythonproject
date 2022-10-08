@@ -13,9 +13,13 @@ class Test_001_Login:
     baseurl = Readconfig.getUrlapp() #"https://admin-demo.nopcommerce.com/"
     username = Readconfig.getUsername() #"admin@yourstore.com"
     password = Readconfig.getPassword() #"admin"
-    screenshotfolder = Readconfig.getScreenshotFolder()
+    #screenshotfolder = Readconfig.getScreenshotFolder()
+   # ss_login = Readconfig.getlogindirectory() + '/Login.png'
+    #ss_dahsboad = Readconfig.getdashboarddirectory() + '/Dashboad.png'
 
     logger = LogGenclass().loggenmethod()  # method call of class - LogGenclass()
+
+
 
     def test_homePageTitle(self, setup):
 
@@ -25,20 +29,20 @@ class Test_001_Login:
         print("\nTest 1: Verify the Login Page title")
         act_title = self.driver.title
 
-        if act_title == "Your store. Login123":
+        if act_title == "Your store. Login12":
             print("Login Page Title is as expected\n")
             self.logger.info("******** Test 1: PASSED Login page title is verified ******")
             self.driver.close()
             assert True
         else:
-            self.driver.save_screenshot(self.screenshotfolder+ '/Login.png')
+            self.driver.save_screenshot(Readconfig.getlogindirectory()+ '/Login.png') #self.screenshotfolder+ '/Login.png'
             print("Login Page Title is not as expected\n")
             self.logger.info("******** Test 1: FAILED Login Page title is incorrect ******")
             warnings.warn(UserWarning("**** Test 1 Warning:- AssertError:Login Page Title is incorrect")) #terminal warning
             self.driver.close()
             assert False
 
-    def Test_Login(self, setup):
+    def test_Login(self, setup):
 
         self.driver = setup
         self.driver.get(self.baseurl)
@@ -50,13 +54,13 @@ class Test_001_Login:
         self.lp.clickLogin()
         act_title = self.driver.title
 
-        if act_title == "Dashboard / nopCommerce administration":
+        if act_title == "Dashboard / nopCommerce administration123":
             assert True
             print("Dashboard Title is as expected\n")
             self.logger.info("******** Test 2: PASSED Dashboard Title is as expected ******")
             self.driver.close()
         else:
-            self.driver.save_screenshot(self.NewFolder + '/test2_Dashboardpage.png')
+            self.driver.save_screenshot(Readconfig.getdashboarddirectory()+ '/Dashboad.png')
             print("Dashboard Title is not as expected\n")
             self.logger.info("******** Test 2: FAILED Dashboard Title is incorrect ******")
             warnings.warn(UserWarning("**** Test 2 Warning:- AssertError: DashboardPage Title is incorrect"))  # terminal warning
