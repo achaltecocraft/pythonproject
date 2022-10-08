@@ -9,11 +9,6 @@ import datetime  #for screenshot directory timestamp
 import os        #for make directory and value get for datastring
 import warnings  #for terminal warning
 
-
-# driver = chromedriver_autoinstaller.install()
-# driver = webdriver.Chrome()
-# driver.get("https://www.nopcommerce.com/en/demo")
-
 class Test_001_Login:
     baseurl = Readconfig.getUrlapp() #"https://admin-demo.nopcommerce.com/"
     username = Readconfig.getUsername() #"admin@yourstore.com"
@@ -23,7 +18,7 @@ class Test_001_Login:
 
     # Make new Directory everytime in 'TestScreenshots' directory with timestamp
     # And save screenshot in newly generated directory
-    path = r'C:\Users\Achal Trivedi\PycharmProjects\pythonproject\TestScreenshots' #'../TestScreenshots/'
+    path = r'C:\Users\achal\PycharmProjects\pythonproject\TestScreenshots' #'../TestScreenshots/'
     DateString = datetime.datetime.now().strftime("%Y_%m_%d_%H_%M_%S")
     os.chdir(path)
     NewFolder = 'TestDate_' + DateString

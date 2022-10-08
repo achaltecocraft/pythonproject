@@ -54,3 +54,11 @@ def path_to_chrome():
             assert False
             print("Login Page Title is not as expected")        
 """
+# WEBDRIVER MANAGER
+#from webdriver_manager.chrome import ChromeDriverManager
+#driver = webdriver.Chrome(ChromeDriverManager().install())
+
+# AUTO INSTALLER
+#import chromedriver_autoinstaller
+#driver = chromedriver_autoinstaller.install()
+#     driver = webdriver.Chrome()
