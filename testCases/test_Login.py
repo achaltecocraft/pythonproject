@@ -1,7 +1,7 @@
 import pytest
 from selenium import webdriver
 from pageObjects.LoginPage import Login
-from testCases.conftest import chrome_driver_init
+from testCases.conftest import setup
 from webdriver_manager.chrome import ChromeDriverManager
 from utilities.customLogger import LogGenclass
 from utilities.readProperties import Readconfig
@@ -24,10 +24,10 @@ class Test_001_Login:
     NewFolder = 'TestDate_' + DateString
     os.makedirs(NewFolder)
 
-    def test_homePageTitle(self, chrome_driver_init):
+    def test_homePageTitle(self, setup):
 
         self.logger.info("******** Test 1: Verify the Login Page title ******")
-        self.driver = chrome_driver_init
+        self.driver = setup
         self.driver.get(self.baseurl)
         print("\nTest 1: Verify the Login Page title")
         act_title = self.driver.title
@@ -45,9 +45,9 @@ class Test_001_Login:
             self.driver.close()
             assert False
 
-    def test_Login(self, chrome_driver_init):
+    def test_Login(self, setup):
 
-        self.driver = chrome_driver_init
+        self.driver = setup
         self.driver.get(self.baseurl)
         self.logger.info("******** Test 2: Verify the Dashboard title ******")
         print("\nTest 2: Verify the Dashboard title")

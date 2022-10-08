@@ -1,26 +1,60 @@
 import pytest
-# import chromedriver_autoinstaller
+#import chromedriver_autoinstaller
 from selenium import webdriver
 import selenium
+# Chrome
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.service import Service #impor service for 'service=Service(ChromeDriverManager().install())'
+# Firefox
+from webdriver_manager.firefox import GeckoDriverManager
+# Edge
+from webdriver_manager.microsoft import EdgeChromiumDriverManager
+from selenium.webdriver.edge.service import Service as EdgeService
+
+
+
 
 
 @pytest.fixture
-def chrome_driver_init(browser):
-   #driver = webdriver.Chrome(ChromeDriverManager().install()) #it gived warning in terminal:- DeprecationWarning: executable_path
-   driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+def setup(browser):
+   if browser == 'chrome':
+        driver = chromedriver_autoinstaller.install()
+        driver = webdriver.Chrome()
+   elif browser == 'firefox':
+      driver = webdriver.Firefox(service=Service(GeckoDriverManager().install()))
+   elif browser == 'edge':
+      driver = webdriver.Edge(service=EdgeService(EdgeChromiumDriverManager().install()))
    return driver
 
+#driver = webdriver.Chrome(ChromeDriverManager().install()) #it gived warning in terminal:- DeprecationWarning: executable_path
 
 def pytest_addoption(parser):
-   parser.addoption("--browser")
+   parser.addoption("--browser") # This will get the value from CLI/hooks
 
 
 @pytest.fixture
-def browser(request):
+def browser(request):  # This will return the broswer value to setup method
    return request.config.getoption("--browser")
 
+
+"""
+parser.addoption -get the value from CLI
+- from command line whichever brwoser name is pass to command prmt this addoption method will get it
+- after getting browser name in variabel (--brower)
+- This method browse(request) -send same return variable value to the setup method
+    
+"""
+# WEBDRIVER MANAGER
+#from webdriver_manager.chrome import ChromeDriverManager
+#driver = webdriver.Chrome(ChromeDriverManager().install())
+
+# WEBDRIVER MANAGER WITH service
+#driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+
+# AUTO INSTALLER
+#import chromedriver_autoinstaller
+#driver = chromedriver_autoinstaller.install()
+#driver = webdriver.Chrome()
 
 """
 Double Fixutres() using for not repeat baseuerl in each testcase (only write test cases in test methods)
@@ -54,11 +88,3 @@ def path_to_chrome():
             assert False
             print("Login Page Title is not as expected")        
 """
-# WEBDRIVER MANAGER
-#from webdriver_manager.chrome import ChromeDriverManager
-#driver = webdriver.Chrome(ChromeDriverManager().install())
-
-# AUTO INSTALLER
-#import chromedriver_autoinstaller
-#driver = chromedriver_autoinstaller.install()
-#     driver = webdriver.Chrome()
