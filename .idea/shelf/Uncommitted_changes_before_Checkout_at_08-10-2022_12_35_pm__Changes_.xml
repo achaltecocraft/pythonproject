@@ -1,0 +1,94 @@
+<changelist name="Uncommitted_changes_before_Checkout_at_08-10-2022_12_35_pm_[Changes]" date="1665212811547" recycled="true" deleted="true">
+  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_08-10-2022_12_35_pm_[Changes]/shelved.patch" />
+  <option name="DESCRIPTION" value="Uncommitted changes before Checkout at 08-10-2022 12:35 pm [Changes]" />
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pip/_vendor/distlib/t32.exe" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/pip/_vendor/distlib/t32.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_08-10-2022_12_35_pm_[Changes]/t32.exe" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pip/_vendor/distlib/w64.exe" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/pip/_vendor/distlib/w64.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_08-10-2022_12_35_pm_[Changes]/w64.exe" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pip-22.2.2.dist-info/METADATA" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Scripts/wheel3.10.exe" />
+    <option name="AFTER_PATH" value="venv/Scripts/wheel3.10.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_08-10-2022_12_35_pm_[Changes]/wheel3.10.exe" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Scripts/wheel.exe" />
+    <option name="AFTER_PATH" value="venv/Scripts/wheel.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_08-10-2022_12_35_pm_[Changes]/wheel.exe" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Scripts/pip.exe" />
+    <option name="AFTER_PATH" value="venv/Scripts/pip.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_08-10-2022_12_35_pm_[Changes]/pip.exe" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pip-22.2.2.dist-info/REQUESTED" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Scripts/wheel3.exe" />
+    <option name="AFTER_PATH" value="venv/Scripts/wheel3.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_08-10-2022_12_35_pm_[Changes]/wheel3.exe" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pip/_vendor/distlib/t64-arm.exe" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/pip/_vendor/distlib/t64-arm.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_08-10-2022_12_35_pm_[Changes]/t64-arm.exe" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pip-22.2.2.dist-info/WHEEL" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pip-22.2.2.dist-info/RECORD" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pip-22.2.2.dist-info/INSTALLER" />
+    <option name="AFTER_PATH" />
+    <option name="SHELVED_PATH" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Scripts/wheel-3.10.exe" />
+    <option name="AFTER_PATH" value="venv/Scripts/wheel-3.10.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_08-10-2022_12_35_pm_[Changes]/wheel-3.10.exe" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Scripts/pip3.exe" />
+    <option name="AFTER_PATH" value="venv/Scripts/pip3.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_08-10-2022_12_35_pm_[Changes]/pip3.exe" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pip/_vendor/distlib/w32.exe" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/pip/_vendor/distlib/w32.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_08-10-2022_12_35_pm_[Changes]/w32.exe" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pip/_vendor/distlib/w64-arm.exe" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/pip/_vendor/distlib/w64-arm.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_08-10-2022_12_35_pm_[Changes]/w64-arm.exe" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Lib/site-packages/pip/_vendor/distlib/t64.exe" />
+    <option name="AFTER_PATH" value="venv/Lib/site-packages/pip/_vendor/distlib/t64.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_08-10-2022_12_35_pm_[Changes]/t64.exe" />
+  </binary>
+  <binary>
+    <option name="BEFORE_PATH" value="venv/Scripts/pip3.10.exe" />
+    <option name="AFTER_PATH" value="venv/Scripts/pip3.10.exe" />
+    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_08-10-2022_12_35_pm_[Changes]/pip3.10.exe" />
+  </binary>
+</changelist>
