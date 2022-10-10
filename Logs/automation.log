@@ -68,3 +68,14 @@
 10/06/2022 05:01:13 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
 10/06/2022 05:01:18 PM ******** Test 2: Verify the Dashboard title ******
 10/06/2022 05:01:25 PM ******** Test 2: PASSED Dashboard Title is as expected ******
+10/10/2022 10:23:15 AM ====== WebDriver manager ======
+10/10/2022 10:23:17 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/10/2022 10:23:19 AM There is no [win64] edgedriver for browser 106.0.1370 in cache
+10/10/2022 10:23:19 AM About to download new driver from https://msedgedriver.azureedge.net/106.0.1370.37/edgedriver_win64.zip
+10/10/2022 10:23:22 AM Driver has been saved in cache [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370]
+10/10/2022 10:23:23 AM ******** Test 1: Verify the Login Page title ******
+10/10/2022 10:23:26 AM ====== WebDriver manager ======
+10/10/2022 10:23:28 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/10/2022 10:23:29 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/10/2022 10:23:36 AM ******** Test 2: Verify the Dashboard title ******
+10/10/2022 10:23:40 AM ******** Test 2: PASSED Dashboard Title is as expected ******

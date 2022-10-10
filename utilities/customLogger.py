@@ -4,7 +4,7 @@ from loggerpy import Logger, Level
 
 class LogGenclass():
     @staticmethod
-    def loggenmethod():
+    def loggenmethod():      #call 'loggenmethod' method from 'LoGgenClass' class- return logger object
         for handler in logging.root.handlers[:]:
             logging.root.removeHandler(handler)
             logging.basicConfig(filename=r'C:\Users\Achal Trivedi\PycharmProjects\pythonproject\Logs\automation.log', format='%(asctime)s %(message)s',
