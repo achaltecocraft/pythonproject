@@ -1,7 +1,8 @@
 import pytest
-# import chromedriver_autoinstaller
+#import chromedriver_autoinstaller
 from selenium import webdriver
 import selenium
+# Chrome
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.chrome.service import Service #impor service for 'service=Service(ChromeDriverManager().install())'
 # Firefox
