@@ -1,81 +1,93 @@
-10/06/2022 12:38:32 PM ====== WebDriver manager ======
-10/06/2022 12:38:34 PM Get LATEST chromedriver version for google-chrome 105.0.5195
-10/06/2022 12:38:34 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
-10/06/2022 12:38:35 PM ******** Test 1: Verify the Login Page title ******
-10/06/2022 12:38:37 PM ******** Test 1: PASSED Login page title is verified ******
-10/06/2022 12:38:39 PM ====== WebDriver manager ======
-10/06/2022 12:38:40 PM Get LATEST chromedriver version for google-chrome 105.0.5195
-10/06/2022 12:38:40 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
-10/06/2022 12:38:42 PM ******** Test 2: Verify the Dashboard title ******
-10/06/2022 12:38:46 PM ******** Test 2: PASSED Dashboard Title is as expected ******
-10/06/2022 03:23:10 PM ====== WebDriver manager ======
-10/06/2022 03:23:11 PM Get LATEST chromedriver version for google-chrome 105.0.5195
-10/06/2022 03:23:12 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
-10/06/2022 03:23:13 PM ******** Test 1: Verify the Login Page title ******
-10/06/2022 03:23:17 PM ******** Test 1: PASSED Login page title is verified ******
-10/06/2022 03:23:19 PM ====== WebDriver manager ======
-10/06/2022 03:23:20 PM Get LATEST chromedriver version for google-chrome 105.0.5195
-10/06/2022 03:23:20 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
-10/06/2022 03:23:24 PM ******** Test 2: Verify the Dashboard title ******
-10/06/2022 03:23:28 PM ******** Test 2: PASSED Dashboard Title is as expected ******
-10/06/2022 03:26:54 PM ====== WebDriver manager ======
-10/06/2022 03:26:54 PM Get LATEST chromedriver version for google-chrome 105.0.5195
-10/06/2022 03:26:54 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
-10/06/2022 03:26:56 PM ******** Test 1: Verify the Login Page title ******
-10/06/2022 03:26:59 PM ******** Test 1: PASSED Login page title is verified ******
-10/06/2022 03:27:02 PM ====== WebDriver manager ======
-10/06/2022 03:27:02 PM Get LATEST chromedriver version for google-chrome 105.0.5195
-10/06/2022 03:27:03 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
-10/06/2022 03:27:06 PM ******** Test 2: Verify the Dashboard title ******
-10/06/2022 03:27:07 PM ******** Test 2: FAILED Dashboard Title is incorrect ******
-10/06/2022 03:27:52 PM ====== WebDriver manager ======
-10/06/2022 03:27:52 PM Get LATEST chromedriver version for google-chrome 105.0.5195
-10/06/2022 03:27:53 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
-10/06/2022 03:27:54 PM ******** Test 1: Verify the Login Page title ******
-10/06/2022 03:27:56 PM ******** Test 1: PASSED Login page title is verified ******
-10/06/2022 03:27:56 PM ====== WebDriver manager ======
-10/06/2022 03:27:57 PM Get LATEST chromedriver version for google-chrome 105.0.5195
-10/06/2022 03:27:57 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
-10/06/2022 03:28:17 PM ******** Test 2: Verify the Dashboard title ******
-10/06/2022 03:28:21 PM ******** Test 2: PASSED Dashboard Title is as expected ******
-10/06/2022 03:34:03 PM ====== WebDriver manager ======
-10/06/2022 03:34:04 PM Get LATEST chromedriver version for google-chrome 105.0.5195
-10/06/2022 03:34:04 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
-10/06/2022 03:34:05 PM ******** Test 1: Verify the Login Page title ******
-10/06/2022 03:34:08 PM ******** Test 1: PASSED Login page title is verified ******
-10/06/2022 03:34:10 PM ====== WebDriver manager ======
-10/06/2022 03:34:11 PM Get LATEST chromedriver version for google-chrome 105.0.5195
-10/06/2022 03:34:11 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
-10/06/2022 03:34:16 PM ******** Test 2: Verify the Dashboard title ******
-10/06/2022 03:34:19 PM ******** Test 2: PASSED Dashboard Title is as expected ******
-10/06/2022 03:35:38 PM ====== WebDriver manager ======
-10/06/2022 03:35:38 PM Get LATEST chromedriver version for google-chrome 105.0.5195
-10/06/2022 03:35:39 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
-10/06/2022 03:35:40 PM ******** Test 1: Verify the Login Page title ******
-10/06/2022 03:35:44 PM ******** Test 1: PASSED Login page title is verified ******
-10/06/2022 03:35:46 PM ====== WebDriver manager ======
-10/06/2022 03:35:47 PM Get LATEST chromedriver version for google-chrome 105.0.5195
-10/06/2022 03:35:47 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
-10/06/2022 03:35:52 PM ******** Test 2: Verify the Dashboard title ******
-10/06/2022 03:35:56 PM ******** Test 2: PASSED Dashboard Title is as expected ******
-10/06/2022 05:01:05 PM ====== WebDriver manager ======
-10/06/2022 05:01:05 PM Get LATEST chromedriver version for google-chrome 105.0.5195
-10/06/2022 05:01:05 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
-10/06/2022 05:01:07 PM ******** Test 1: Verify the Login Page title ******
-10/06/2022 05:01:09 PM ******** Test 1: PASSED Login page title is verified ******
-10/06/2022 05:01:12 PM ====== WebDriver manager ======
-10/06/2022 05:01:12 PM Get LATEST chromedriver version for google-chrome 105.0.5195
-10/06/2022 05:01:13 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
-10/06/2022 05:01:18 PM ******** Test 2: Verify the Dashboard title ******
-10/06/2022 05:01:25 PM ******** Test 2: PASSED Dashboard Title is as expected ******
-10/10/2022 10:23:15 AM ====== WebDriver manager ======
-10/10/2022 10:23:17 AM Get LATEST edgedriver version for 106.0.1370 Edge
-10/10/2022 10:23:19 AM There is no [win64] edgedriver for browser 106.0.1370 in cache
-10/10/2022 10:23:19 AM About to download new driver from https://msedgedriver.azureedge.net/106.0.1370.37/edgedriver_win64.zip
-10/10/2022 10:23:22 AM Driver has been saved in cache [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370]
-10/10/2022 10:23:23 AM ******** Test 1: Verify the Login Page title ******
-10/10/2022 10:23:26 AM ====== WebDriver manager ======
-10/10/2022 10:23:28 AM Get LATEST edgedriver version for 106.0.1370 Edge
-10/10/2022 10:23:29 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
-10/10/2022 10:23:36 AM ******** Test 2: Verify the Dashboard title ******
-10/10/2022 10:23:40 AM ******** Test 2: PASSED Dashboard Title is as expected ******
+10/10/2022 11:12:26 AM ====== WebDriver manager ======
+10/10/2022 11:12:27 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/10/2022 11:12:29 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/10/2022 11:12:32 AM ******** Test 1: Verify the Login Page title ******
+10/10/2022 11:12:34 AM ******** Test 1: PASSED Login page title is verified ******
+10/10/2022 11:12:51 AM ====== WebDriver manager ======
+10/10/2022 11:12:52 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/10/2022 11:12:53 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/10/2022 11:12:59 AM ******** Test 2: Verify the Dashboard title ******
+10/10/2022 11:13:03 AM ******** Test 2: PASSED Dashboard Title is as expected ******
+10/10/2022 11:15:04 AM ====== WebDriver manager ======
+10/10/2022 11:15:05 AM Get LATEST chromedriver version for google-chrome 105.0.5195
+10/10/2022 11:15:05 AM About to download new driver from https://chromedriver.storage.googleapis.com/105.0.5195.52/chromedriver_win32.zip
+10/10/2022 11:15:06 AM Driver has been saved in cache [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\105.0.5195]
+10/10/2022 11:15:08 AM ******** Test 1: Verify the Login Page title ******
+10/10/2022 11:15:11 AM ******** Test 1: PASSED Login page title is verified ******
+10/10/2022 11:15:14 AM ====== WebDriver manager ======
+10/10/2022 11:15:14 AM Get LATEST chromedriver version for google-chrome 105.0.5195
+10/10/2022 11:15:15 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+10/10/2022 11:15:19 AM ******** Test 2: Verify the Dashboard title ******
+10/10/2022 11:15:23 AM ******** Test 2: PASSED Dashboard Title is as expected ******
+10/10/2022 11:16:41 AM ====== WebDriver manager ======
+10/10/2022 11:16:43 AM Get LATEST geckodriver version for None firefox
+10/10/2022 11:16:44 AM There is no [win64] geckodriver for browser None in cache
+10/10/2022 11:16:44 AM Getting latest mozilla release info for v0.31.0
+10/10/2022 11:16:45 AM About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.31.0/geckodriver-v0.31.0-win64.zip
+10/10/2022 11:16:47 AM Driver has been saved in cache [C:\Users\Achal Trivedi\.wdm\drivers\geckodriver\win64\0.31]
+10/10/2022 11:16:50 AM ====== WebDriver manager ======
+10/10/2022 11:16:51 AM Get LATEST geckodriver version for None firefox
+10/10/2022 11:16:53 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+10/10/2022 11:20:35 AM ====== WebDriver manager ======
+10/10/2022 11:20:36 AM Get LATEST geckodriver version for None firefox
+10/10/2022 11:20:38 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+10/10/2022 11:20:41 AM ====== WebDriver manager ======
+10/10/2022 11:20:42 AM Get LATEST geckodriver version for None firefox
+10/10/2022 11:20:44 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+10/10/2022 11:21:24 AM ====== WebDriver manager ======
+10/10/2022 11:21:25 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/10/2022 11:21:26 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/10/2022 11:21:29 AM ******** Test 1: Verify the Login Page title ******
+10/10/2022 11:21:33 AM ******** Test 1: PASSED Login page title is verified ******
+10/10/2022 11:21:34 AM ====== WebDriver manager ======
+10/10/2022 11:21:35 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/10/2022 11:21:36 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/10/2022 11:21:43 AM ******** Test 2: Verify the Dashboard title ******
+10/10/2022 11:21:48 AM ******** Test 2: PASSED Dashboard Title is as expected ******
+10/10/2022 11:22:50 AM ====== WebDriver manager ======
+10/10/2022 11:22:51 AM Get LATEST geckodriver version for 105.0 firefox
+10/10/2022 11:22:52 AM There is no [win64] geckodriver for browser 105.0 in cache
+10/10/2022 11:22:52 AM Getting latest mozilla release info for v0.31.0
+10/10/2022 11:22:53 AM About to download new driver from https://github.com/mozilla/geckodriver/releases/download/v0.31.0/geckodriver-v0.31.0-win64.zip
+10/10/2022 11:22:55 AM Driver has been saved in cache [C:\Users\Achal Trivedi\.wdm\drivers\geckodriver\win64\0.31]
+10/10/2022 11:23:00 AM ******** Test 1: Verify the Login Page title ******
+10/10/2022 11:23:03 AM ******** Test 1: PASSED Login page title is verified ******
+10/10/2022 11:23:04 AM ====== WebDriver manager ======
+10/10/2022 11:23:05 AM Get LATEST geckodriver version for 105.0 firefox
+10/10/2022 11:23:06 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\geckodriver\win64\0.31\geckodriver.exe] found in cache
+10/10/2022 11:23:13 AM ******** Test 2: Verify the Dashboard title ******
+10/10/2022 11:23:16 AM ******** Test 2: PASSED Dashboard Title is as expected ******
+10/10/2022 11:25:45 AM xdist worker is: gw0
+10/10/2022 11:25:45 AM ====== WebDriver manager ======
+10/10/2022 11:25:45 AM ====== WebDriver manager ======
+10/10/2022 11:25:46 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/10/2022 11:25:46 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/10/2022 11:25:48 AM There is no [win64] edgedriver for browser 106.0.1370 in cache
+10/10/2022 11:25:48 AM About to download new driver from https://msedgedriver.azureedge.net/106.0.1370.37/edgedriver_win64.zip
+10/10/2022 11:25:48 AM About to download new driver from https://msedgedriver.azureedge.net/106.0.1370.37/edgedriver_win64.zip
+10/10/2022 11:25:51 AM Driver has been saved in cache [C:\Users\Achal Trivedi\.wdm\gw1\drivers\edgedriver\win64\106.0.1370]
+10/10/2022 11:25:53 AM Driver has been saved in cache [C:\Users\Achal Trivedi\.wdm\gw0\drivers\edgedriver\win64\106.0.1370]
+10/10/2022 11:25:57 AM ******** Test 1: Verify the Login Page title ******
+10/10/2022 11:25:57 AM ******** Test 2: Verify the Dashboard title ******
+10/10/2022 11:26:00 AM ******** Test 1: PASSED Login page title is verified ******
+10/10/2022 11:26:01 AM ******** Test 2: PASSED Dashboard Title is as expected ******
+10/10/2022 11:38:05 AM ====== WebDriver manager ======
+10/10/2022 11:38:05 AM Get LATEST chromedriver version for google-chrome 105.0.5195
+10/10/2022 11:38:06 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+10/10/2022 11:38:07 AM ******** Test 1: Verify the Login Page title ******
+10/10/2022 11:38:10 AM ******** Test 1: PASSED Login page title is verified ******
+10/10/2022 11:38:13 AM ====== WebDriver manager ======
+10/10/2022 11:38:13 AM Get LATEST chromedriver version for google-chrome 105.0.5195
+10/10/2022 11:38:14 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\105.0.5195\chromedriver.exe] found in cache
+10/10/2022 11:38:17 AM ******** Test 2: Verify the Dashboard title ******
+10/10/2022 11:38:20 AM ******** Test 2: PASSED Dashboard Title is as expected ******
+10/10/2022 12:30:49 PM ====== WebDriver manager ======
+10/10/2022 12:30:53 PM Get LATEST edgedriver version for 106.0.1370 Edge
+10/10/2022 12:30:54 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/10/2022 12:30:58 PM ******** Test 1: Verify the Login Page title ******
+10/10/2022 12:31:00 PM ******** Test 1: PASSED Login page title is verified ******
+10/10/2022 12:31:00 PM ====== WebDriver manager ======
+10/10/2022 12:31:01 PM Get LATEST edgedriver version for 106.0.1370 Edge
+10/10/2022 12:31:02 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/10/2022 12:31:08 PM ******** Test 2: Verify the Dashboard title ******
+10/10/2022 12:31:11 PM ******** Test 2: PASSED Dashboard Title is as expected ******

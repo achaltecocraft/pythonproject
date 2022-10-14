@@ -3,7 +3,7 @@ import datetime
 import os
 
 config = configparser.RawConfigParser()
-config.read(r'C:\Users\achal\PycharmProjects\pythonproject\Configuration\config.ini') #'../Configuration/config.ini'
+config.read(r'C:\Users\Achal Trivedi\PycharmProjects\pythonproject\Configuration\config.ini') #'../Configuration/config.ini'
 
 
 
@@ -35,13 +35,13 @@ class Readconfig():
 
     @staticmethod
     def getdashboarddirectory():
-        path = config.get('common info', 'dashboadpath')
+        path2 = config.get('common info', 'dashboadpath')
         DateString = datetime.datetime.now().strftime("%Y_%m_%d_%H_%M_%S")
-        os.chdir(path)
-        dashboardnewfolder = 'Test_shots_' + DateString
-        if not os.path.exists(dashboardnewfolder):
-          os.makedirs(dashboardnewfolder)
-        return dashboardnewfolder
+        os.chdir(path2)
+        loginnewfolder2 = 'Test_shots_' + DateString
+        if not os.path.exists(loginnewfolder2):
+            os.makedirs(loginnewfolder2)
+        return loginnewfolder2
 
 
 

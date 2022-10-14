@@ -13,12 +13,11 @@ class Test_001_Login:
     baseurl = Readconfig.getUrlapp() #"https://admin-demo.nopcommerce.com/"
     username = Readconfig.getUsername() #"admin@yourstore.com"
     password = Readconfig.getPassword() #"admin"
-
     logger = LogGenclass().loggenmethod()  # method call of class - LogGenclass()
 
 
 
-    def test_homePageTitle(self, setup):
+    def Test_homePageTitle(self, setup):
 
         self.logger.info("******** Test 1: Verify the Login Page title ******")
         self.driver = setup
@@ -51,7 +50,7 @@ class Test_001_Login:
         self.lp.clickLogin()
         act_title = self.driver.title
 
-        if act_title == "Dashboard / nopCommerce administration":
+        if act_title == "Dashboard / nopCommerce administration123":
             assert True
             print("Dashboard Title is as expected\n")
             self.logger.info("******** Test 2: PASSED Dashboard Title is as expected ******")
