@@ -91,3 +91,725 @@
 10/10/2022 12:31:02 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
 10/10/2022 12:31:08 PM ******** Test 2: Verify the Dashboard title ******
 10/10/2022 12:31:11 PM ******** Test 2: PASSED Dashboard Title is as expected ******
+10/13/2022 06:15:22 PM ====== WebDriver manager ======
+10/13/2022 06:15:25 PM Get LATEST edgedriver version for 106.0.1370 Edge
+10/13/2022 06:15:27 PM About to download new driver from https://msedgedriver.azureedge.net/106.0.1370.42/edgedriver_win64.zip
+10/13/2022 06:15:29 PM Driver has been saved in cache [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370]
+10/13/2022 06:15:31 PM ******** Test 1: Verify the Login Page title ******
+10/13/2022 06:15:35 PM ******** Test 1: PASSED Login page title is verified ******
+10/13/2022 06:15:35 PM ====== WebDriver manager ======
+10/13/2022 06:15:36 PM Get LATEST edgedriver version for 106.0.1370 Edge
+10/13/2022 06:15:38 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/13/2022 06:15:43 PM ******** Test 2: Verify the Dashboard title ******
+10/13/2022 06:15:47 PM ******** Test 2: PASSED Dashboard Title is as expected ******
+10/13/2022 07:21:59 PM ====== WebDriver manager ======
+10/13/2022 07:22:00 PM Get LATEST edgedriver version for 106.0.1370 Edge
+10/13/2022 07:22:01 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/13/2022 07:22:05 PM ******** Test_001_Login_DDT ******
+10/13/2022 07:22:05 PM ******** Verifying the Login Data Driven test ******
+10/13/2022 07:28:26 PM ====== WebDriver manager ======
+10/13/2022 07:28:27 PM Get LATEST edgedriver version for 106.0.1370 Edge
+10/13/2022 07:28:29 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/13/2022 07:28:32 PM ******** Test_001_Login_DDT ******
+10/13/2022 07:28:32 PM ******** Verifying the Login Data Driven test ******
+10/13/2022 07:29:00 PM ====== WebDriver manager ======
+10/13/2022 07:29:01 PM Get LATEST edgedriver version for 106.0.1370 Edge
+10/13/2022 07:29:02 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/13/2022 07:29:05 PM ******** Test_001_Login_DDT ******
+10/13/2022 07:29:05 PM ******** Verifying the Login Data Driven test ******
+10/13/2022 07:30:57 PM ====== WebDriver manager ======
+10/13/2022 07:30:58 PM Get LATEST edgedriver version for 106.0.1370 Edge
+10/13/2022 07:31:00 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/13/2022 07:31:03 PM ******** Test_001_Login_DDT ******
+10/13/2022 07:31:03 PM ******** Verifying the Login Data Driven test ******
+10/13/2022 07:31:53 PM ====== WebDriver manager ======
+10/13/2022 07:31:54 PM Get LATEST edgedriver version for 106.0.1370 Edge
+10/13/2022 07:31:55 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/13/2022 07:31:59 PM ******** Test_001_Login_DDT ******
+10/13/2022 07:31:59 PM ******** Verifying the Login Data Driven test ******
+10/14/2022 10:01:24 AM ====== WebDriver manager ======
+10/14/2022 10:01:29 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 10:01:30 AM About to download new driver from https://msedgedriver.azureedge.net/106.0.1370.42/edgedriver_win64.zip
+10/14/2022 10:01:34 AM Driver has been saved in cache [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370]
+10/14/2022 10:01:37 AM ******** Test_001_Login_DDT ******
+10/14/2022 10:01:37 AM ******** Verifying the Login Data Driven test ******
+10/14/2022 10:09:25 AM ====== WebDriver manager ======
+10/14/2022 10:09:28 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 10:09:29 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 10:09:32 AM ******** Test 1: Verify the Login Page title ******
+10/14/2022 10:09:36 AM ====== WebDriver manager ======
+10/14/2022 10:09:38 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 10:09:39 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 10:09:46 AM ******** Test 2: Verify the Dashboard title ******
+10/14/2022 10:10:42 AM ====== WebDriver manager ======
+10/14/2022 10:10:43 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 10:10:45 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 10:10:48 AM ******** Test 1: Verify the Login Page title ******
+10/14/2022 10:10:51 AM ====== WebDriver manager ======
+10/14/2022 10:10:52 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 10:10:54 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 10:10:59 AM ******** Test 2: Verify the Dashboard title ******
+10/14/2022 10:12:15 AM ====== WebDriver manager ======
+10/14/2022 10:12:16 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 10:12:18 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 10:12:21 AM ******** Test 1: Verify the Login Page title ******
+10/14/2022 10:12:23 AM ******** Test 1: FAILED Login Page title is incorrect ******
+10/14/2022 10:12:23 AM ====== WebDriver manager ======
+10/14/2022 10:12:25 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 10:12:26 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 10:12:30 AM ******** Test 2: Verify the Dashboard title ******
+10/14/2022 10:13:25 AM ====== WebDriver manager ======
+10/14/2022 10:13:27 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 10:13:29 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 10:13:33 AM ******** Test 1: Verify the Login Page title ******
+10/14/2022 10:13:36 AM ******** Test 1: FAILED Login Page title is incorrect ******
+10/14/2022 10:13:37 AM ====== WebDriver manager ======
+10/14/2022 10:13:38 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 10:13:39 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 10:13:46 AM ******** Test 2: Verify the Dashboard title ******
+10/14/2022 10:19:04 AM ====== WebDriver manager ======
+10/14/2022 10:19:05 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 10:19:07 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 10:19:10 AM ******** Test 1: Verify the Login Page title ******
+10/14/2022 10:19:13 AM ******** Test 1: FAILED Login Page title is incorrect ******
+10/14/2022 10:19:13 AM ====== WebDriver manager ======
+10/14/2022 10:19:15 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 10:19:16 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 10:19:22 AM ******** Test 2: Verify the Dashboard title ******
+10/14/2022 10:21:57 AM ====== WebDriver manager ======
+10/14/2022 10:21:58 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 10:22:00 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 10:22:03 AM ******** Test 1: Verify the Login Page title ******
+10/14/2022 10:22:07 AM ******** Test 1: FAILED Login Page title is incorrect ******
+10/14/2022 10:22:07 AM ====== WebDriver manager ======
+10/14/2022 10:22:09 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 10:22:10 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 10:22:17 AM ******** Test 2: Verify the Dashboard title ******
+10/14/2022 10:23:13 AM ====== WebDriver manager ======
+10/14/2022 10:23:15 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 10:23:16 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 10:23:20 AM ******** Test 1: Verify the Login Page title ******
+10/14/2022 10:23:24 AM ******** Test 1: FAILED Login Page title is incorrect ******
+10/14/2022 10:23:24 AM ====== WebDriver manager ======
+10/14/2022 10:23:25 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 10:23:27 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 10:23:33 AM ******** Test 2: Verify the Dashboard title ******
+10/14/2022 10:24:13 AM ====== WebDriver manager ======
+10/14/2022 10:24:14 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 10:24:16 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 10:24:18 AM ******** Test 1: Verify the Login Page title ******
+10/14/2022 10:24:21 AM ******** Test 1: FAILED Login Page title is incorrect ******
+10/14/2022 10:24:21 AM ====== WebDriver manager ======
+10/14/2022 10:24:23 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 10:24:24 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 10:24:28 AM ******** Test 2: Verify the Dashboard title ******
+10/14/2022 10:26:24 AM ====== WebDriver manager ======
+10/14/2022 10:26:25 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 10:26:27 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 10:26:30 AM ******** Test 1: Verify the Login Page title ******
+10/14/2022 10:26:33 AM ******** Test 1: FAILED Login Page title is incorrect ******
+10/14/2022 10:26:33 AM ====== WebDriver manager ======
+10/14/2022 10:26:35 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 10:26:36 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 10:26:40 AM ******** Test 2: Verify the Dashboard title ******
+10/14/2022 10:29:39 AM ====== WebDriver manager ======
+10/14/2022 10:29:40 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 10:29:42 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 10:29:45 AM ******** Test 1: Verify the Login Page title ******
+10/14/2022 10:29:49 AM ******** Test 1: FAILED Login Page title is incorrect ******
+10/14/2022 10:29:49 AM ====== WebDriver manager ======
+10/14/2022 10:29:50 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 10:29:52 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 10:29:58 AM ******** Test 2: Verify the Dashboard title ******
+10/14/2022 10:32:08 AM ====== WebDriver manager ======
+10/14/2022 10:32:09 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 10:32:11 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 10:32:14 AM ******** Test 1: Verify the Login Page title ******
+10/14/2022 10:32:18 AM ******** Test 1: FAILED Login Page title is incorrect ******
+10/14/2022 10:32:18 AM ====== WebDriver manager ======
+10/14/2022 10:32:20 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 10:32:21 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 10:32:25 AM ******** Test 2: Verify the Dashboard title ******
+10/14/2022 10:33:59 AM ====== WebDriver manager ======
+10/14/2022 10:34:01 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 10:34:03 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 10:34:06 AM ******** Test 1: Verify the Login Page title ******
+10/14/2022 10:34:09 AM ******** Test 1: FAILED Login Page title is incorrect ******
+10/14/2022 10:34:09 AM ====== WebDriver manager ======
+10/14/2022 10:34:11 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 10:34:13 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 10:34:19 AM ******** Test 2: Verify the Dashboard title ******
+10/14/2022 10:34:24 AM ******** Test 2: FAILED Dashboard Title is incorrect ******
+10/14/2022 10:44:58 AM ====== WebDriver manager ======
+10/14/2022 10:45:00 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 10:45:02 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 10:45:05 AM ******** Test_001_Login_DDT ******
+10/14/2022 10:45:05 AM ******** Verifying the Login Data Driven test ******
+10/14/2022 10:53:08 AM ====== WebDriver manager ======
+10/14/2022 10:53:09 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 10:53:11 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 10:53:14 AM ******** Test_001_Login_DDT ******
+10/14/2022 10:53:14 AM ******** Verifying the Login Data Driven test ******
+10/14/2022 10:56:42 AM ====== WebDriver manager ======
+10/14/2022 10:56:44 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 10:56:45 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 10:56:48 AM ******** Test_001_Login_DDT ******
+10/14/2022 10:56:48 AM ******** Verifying the Login Data Driven test ******
+10/14/2022 10:59:11 AM ====== WebDriver manager ======
+10/14/2022 10:59:12 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 10:59:13 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 10:59:16 AM ******** Test_001_Login_DDT ******
+10/14/2022 10:59:16 AM ******** Verifying the Login Data Driven test ******
+10/14/2022 11:04:03 AM ====== WebDriver manager ======
+10/14/2022 11:04:05 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 11:04:06 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 11:04:09 AM ******** Test_001_Login_DDT ******
+10/14/2022 11:04:09 AM ******** Verifying the Login Data Driven test ******
+10/14/2022 11:04:53 AM ====== WebDriver manager ======
+10/14/2022 11:04:54 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 11:04:56 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 11:04:59 AM ******** Test_001_Login_DDT ******
+10/14/2022 11:04:59 AM ******** Verifying the Login Data Driven test ******
+10/14/2022 11:05:53 AM ====== WebDriver manager ======
+10/14/2022 11:05:54 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 11:05:56 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 11:05:59 AM ******** Test_001_Login_DDT ******
+10/14/2022 11:05:59 AM ******** Verifying the Login Data Driven test ******
+10/14/2022 11:17:41 AM ====== WebDriver manager ======
+10/14/2022 11:17:42 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 11:17:43 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 11:17:46 AM ******** Test_001_Login_DDT ******
+10/14/2022 11:17:46 AM ******** Verifying the Login Data Driven test ******
+10/14/2022 11:17:56 AM ********      Passed      ******
+10/14/2022 11:21:07 AM ====== WebDriver manager ======
+10/14/2022 11:21:08 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 11:21:10 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 11:21:13 AM ******** Test_001_Login_DDT ******
+10/14/2022 11:21:13 AM ******** Verifying the Login Data Driven test ******
+10/14/2022 11:21:21 AM ********      Passed      ******
+10/14/2022 11:23:11 AM ====== WebDriver manager ======
+10/14/2022 11:23:12 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 11:23:13 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 11:23:16 AM ******** Test_001_Login_DDT ******
+10/14/2022 11:23:16 AM ******** Verifying the Login Data Driven test ******
+10/14/2022 11:23:26 AM ********      Failed      ******
+10/14/2022 11:24:22 AM ====== WebDriver manager ======
+10/14/2022 11:24:23 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 11:24:25 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 11:24:28 AM ******** Test_001_Login_DDT ******
+10/14/2022 11:24:28 AM ******** Verifying the Login Data Driven test ******
+10/14/2022 11:24:36 AM ********      Failed      ******
+10/14/2022 11:25:30 AM ====== WebDriver manager ======
+10/14/2022 11:25:31 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 11:25:33 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 11:25:36 AM ******** Test_001_Login_DDT ******
+10/14/2022 11:25:36 AM ******** Verifying the Login Data Driven test ******
+10/14/2022 11:25:45 AM ********      Passed      ******
+10/14/2022 11:29:00 AM ====== WebDriver manager ======
+10/14/2022 11:29:01 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 11:29:02 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 11:29:05 AM ******** Test_001_Login_DDT ******
+10/14/2022 11:29:05 AM ******** Verifying the Login Data Driven test ******
+10/14/2022 11:29:15 AM ********      Passed      ******
+10/14/2022 11:29:15 AM ***** Login DDT PASSED *****
+10/14/2022 11:31:36 AM ====== WebDriver manager ======
+10/14/2022 11:31:37 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 11:31:39 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 11:31:42 AM ******** Test_001_Login_DDT ******
+10/14/2022 11:31:42 AM ******** Verifying the Login Data Driven test ******
+10/14/2022 11:37:57 AM ====== WebDriver manager ======
+10/14/2022 11:37:58 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 11:37:59 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 11:38:02 AM ******** Test_001_Login_DDT ******
+10/14/2022 11:38:02 AM ******** Verifying the Login Data Driven test ******
+10/14/2022 11:38:39 AM ====== WebDriver manager ======
+10/14/2022 11:38:40 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 11:38:41 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 11:38:47 AM ******** Test 2: Verify the Dashboard title ******
+10/14/2022 11:39:12 AM ====== WebDriver manager ======
+10/14/2022 11:39:13 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 11:39:14 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 11:39:21 AM ******** Test 2: Verify the Dashboard title ******
+10/14/2022 11:39:26 AM ******** Test 2: FAILED Dashboard Title is incorrect ******
+10/14/2022 11:39:55 AM ====== WebDriver manager ======
+10/14/2022 11:39:56 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 11:39:57 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 11:40:00 AM ******** Test_001_Login_DDT ******
+10/14/2022 11:40:00 AM ******** Verifying the Login Data Driven test ******
+10/14/2022 11:40:04 AM ********      Passed      ******
+10/14/2022 11:40:04 AM ***** Login DDT PASSED *****
+10/14/2022 11:41:04 AM ====== WebDriver manager ======
+10/14/2022 11:41:05 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 11:41:07 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 11:41:10 AM ******** Test_001_Login_DDT ******
+10/14/2022 11:41:10 AM ******** Verifying the Login Data Driven test ******
+10/14/2022 11:42:07 AM ********      Passed      ******
+10/14/2022 11:42:19 AM ***** Login DDT PASSED *****
+10/14/2022 11:43:47 AM ====== WebDriver manager ======
+10/14/2022 11:43:48 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 11:43:49 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 11:43:52 AM ******** Test_001_Login_DDT ******
+10/14/2022 11:43:52 AM ******** Verifying the Login Data Driven test ******
+10/14/2022 11:44:36 AM ====== WebDriver manager ======
+10/14/2022 11:44:37 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 11:44:38 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 11:44:41 AM ******** Test_001_Login_DDT ******
+10/14/2022 11:44:41 AM ******** Verifying the Login Data Driven test ******
+10/14/2022 11:49:05 AM ====== WebDriver manager ======
+10/14/2022 11:49:06 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 11:49:08 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 11:49:11 AM ******** Test_001_Login_DDT ******
+10/14/2022 11:49:11 AM ******** Verifying the Login Data Driven test ******
+10/14/2022 11:50:21 AM ====== WebDriver manager ======
+10/14/2022 11:50:22 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 11:50:24 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 11:50:27 AM ******** Test_001_Login_DDT ******
+10/14/2022 11:50:27 AM ******** Verifying the Login Data Driven test ******
+10/14/2022 11:51:03 AM ====== WebDriver manager ======
+10/14/2022 11:51:04 AM Get LATEST edgedriver version for 106.0.1370 Edge
+10/14/2022 11:51:05 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\edgedriver\win64\106.0.1370\msedgedriver.exe] found in cache
+10/14/2022 11:51:08 AM ******** Test_001_Login_DDT ******
+10/14/2022 11:51:08 AM ******** Verifying the Login Data Driven test ******
+10/14/2022 11:51:13 AM ********      Passed      ******
+10/14/2022 11:51:13 AM ***** Login DDT PASSED *****
+10/14/2022 11:53:46 AM ====== WebDriver manager ======
+10/14/2022 11:53:46 AM Get LATEST chromedriver version for google-chrome 106.0.5249
+10/14/2022 11:53:47 AM There is no [win32] chromedriver for browser 106.0.5249 in cache
+10/14/2022 11:53:47 AM About to download new driver from https://chromedriver.storage.googleapis.com/106.0.5249.61/chromedriver_win32.zip
+10/14/2022 11:53:48 AM Driver has been saved in cache [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\106.0.5249]
+10/14/2022 11:53:50 AM ******** Test_001_Login_DDT ******
+10/14/2022 11:53:50 AM ******** Verifying the Login Data Driven test ******
+10/14/2022 11:53:55 AM ********      Passed      ******
+10/14/2022 11:53:55 AM ***** Login DDT PASSED *****
+10/14/2022 11:56:14 AM ====== WebDriver manager ======
+10/14/2022 11:56:14 AM Get LATEST chromedriver version for google-chrome 106.0.5249
+10/14/2022 11:56:15 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/14/2022 11:56:16 AM ******** Test_001_Login_DDT ******
+10/14/2022 11:56:16 AM ******** Verifying the Login Data Driven test ******
+10/14/2022 11:56:44 AM ********      Passed      ******
+10/14/2022 11:58:21 AM ====== WebDriver manager ======
+10/14/2022 11:58:22 AM Get LATEST chromedriver version for google-chrome 106.0.5249
+10/14/2022 11:58:22 AM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/14/2022 11:58:23 AM ******** Test_001_Login_DDT ******
+10/14/2022 11:58:23 AM ******** Verifying the Login Data Driven test ******
+10/14/2022 12:00:01 PM ********      Passed      ******
+10/14/2022 12:05:26 PM ====== WebDriver manager ======
+10/14/2022 12:05:26 PM Get LATEST chromedriver version for google-chrome 106.0.5249
+10/14/2022 12:05:27 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/14/2022 12:05:28 PM ******** Test_001_Login_DDT ******
+10/14/2022 12:05:28 PM ******** Verifying the Login Data Driven test ******
+10/14/2022 12:05:32 PM ********      Passed      ******
+10/14/2022 12:05:32 PM ***** Login DDT PASSED *****
+10/14/2022 12:06:39 PM ====== WebDriver manager ======
+10/14/2022 12:06:40 PM Get LATEST chromedriver version for google-chrome 106.0.5249
+10/14/2022 12:06:40 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/14/2022 12:06:41 PM ******** Test_001_Login_DDT ******
+10/14/2022 12:06:41 PM ******** Verifying the Login Data Driven test ******
+10/14/2022 12:06:45 PM ********      Passed      ******
+10/14/2022 12:06:45 PM ***** Login DDT PASSED *****
+10/14/2022 12:12:48 PM ====== WebDriver manager ======
+10/14/2022 12:12:49 PM Get LATEST chromedriver version for google-chrome 106.0.5249
+10/14/2022 12:12:49 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/14/2022 12:12:50 PM ******** Test_001_Login_DDT ******
+10/14/2022 12:12:50 PM ******** Verifying the Login Data Driven test ******
+10/14/2022 12:13:36 PM ====== WebDriver manager ======
+10/14/2022 12:13:36 PM Get LATEST chromedriver version for google-chrome 106.0.5249
+10/14/2022 12:13:37 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/14/2022 12:13:38 PM ******** Test_001_Login_DDT ******
+10/14/2022 12:13:38 PM ******** Verifying the Login Data Driven test ******
+10/14/2022 12:14:38 PM ====== WebDriver manager ======
+10/14/2022 12:14:39 PM Get LATEST chromedriver version for google-chrome 106.0.5249
+10/14/2022 12:14:39 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/14/2022 12:14:40 PM ******** Test_001_Login_DDT ******
+10/14/2022 12:14:40 PM ******** Verifying the Login Data Driven test ******
+10/14/2022 12:14:44 PM ********      Passed      ******
+10/14/2022 12:14:44 PM ****** End of DDT Testing *******
+10/14/2022 12:14:44 PM ***** Completed Test Test_001_Login_DDT ******
+10/14/2022 12:16:30 PM ====== WebDriver manager ======
+10/14/2022 12:16:30 PM Get LATEST chromedriver version for google-chrome 106.0.5249
+10/14/2022 12:16:31 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/14/2022 12:16:32 PM ******** Test_001_Login_DDT ******
+10/14/2022 12:16:32 PM ******** Verifying the Login Data Driven test ******
+10/14/2022 12:16:35 PM ********      Read Username     ******
+10/14/2022 12:16:35 PM ********      Read Password     ******
+10/14/2022 12:16:35 PM ********      Read Expected     ******
+10/14/2022 12:16:37 PM ********      Passed      ******
+10/14/2022 12:16:37 PM ****** End of DDT Testing *******
+10/14/2022 12:16:37 PM ***** Completed Test Test_001_Login_DDT ******
+10/14/2022 12:22:32 PM ====== WebDriver manager ======
+10/14/2022 12:22:32 PM Get LATEST chromedriver version for google-chrome 106.0.5249
+10/14/2022 12:22:33 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/14/2022 12:22:34 PM ******** Test_001_Login_DDT ******
+10/14/2022 12:22:34 PM ******** Verifying the Login Data Driven test ******
+10/14/2022 12:22:35 PM ********      Read Username     ******
+10/14/2022 12:22:35 PM ********      Read Password     ******
+10/14/2022 12:22:35 PM ********      Read Expected     ******
+10/14/2022 12:22:35 PM ********      Read Username     ******
+10/14/2022 12:22:35 PM ********      Read Password     ******
+10/14/2022 12:22:35 PM ********      Read Expected     ******
+10/14/2022 12:22:35 PM ********      Read Username     ******
+10/14/2022 12:22:35 PM ********      Read Password     ******
+10/14/2022 12:22:35 PM ********      Read Expected     ******
+10/14/2022 12:22:35 PM ********      Read Username     ******
+10/14/2022 12:22:35 PM ********      Read Password     ******
+10/14/2022 12:22:35 PM ********      Read Expected     ******
+10/14/2022 12:22:36 PM ********      Failed      ******
+10/14/2022 12:22:36 PM ****** End of DDT Testing *******
+10/14/2022 12:22:36 PM ***** Completed Test Test_001_Login_DDT ******
+10/14/2022 12:23:57 PM ====== WebDriver manager ======
+10/14/2022 12:23:57 PM Get LATEST chromedriver version for google-chrome 106.0.5249
+10/14/2022 12:23:58 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/14/2022 12:23:59 PM ******** Test_001_Login_DDT ******
+10/14/2022 12:23:59 PM ******** Verifying the Login Data Driven test ******
+10/14/2022 12:24:01 PM ********      Read Username     ******
+10/14/2022 12:24:01 PM ********      Read Password     ******
+10/14/2022 12:24:01 PM ********      Read Expected     ******
+10/14/2022 12:24:02 PM ********      Passed      ******
+10/14/2022 12:24:02 PM ********      Read Username     ******
+10/14/2022 12:24:02 PM ********      Read Password     ******
+10/14/2022 12:24:02 PM ********      Read Expected     ******
+10/14/2022 12:24:03 PM ********      Failed      ******
+10/14/2022 12:24:03 PM ********      Read Username     ******
+10/14/2022 12:24:03 PM ********      Read Password     ******
+10/14/2022 12:24:03 PM ********      Read Expected     ******
+10/14/2022 12:24:03 PM ********      Failed      ******
+10/14/2022 12:24:03 PM ********      Read Username     ******
+10/14/2022 12:24:03 PM ********      Read Password     ******
+10/14/2022 12:24:03 PM ********      Read Expected     ******
+10/14/2022 12:24:04 PM ********      Failed      ******
+10/14/2022 12:24:04 PM ****** End of DDT Testing *******
+10/14/2022 12:24:04 PM ***** Completed Test Test_001_Login_DDT ******
+10/14/2022 12:27:04 PM ====== WebDriver manager ======
+10/14/2022 12:27:05 PM Get LATEST chromedriver version for google-chrome 106.0.5249
+10/14/2022 12:27:05 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/14/2022 12:27:07 PM ******** Test_001_Login_DDT ******
+10/14/2022 12:27:07 PM ******** Verifying the Login Data Driven test ******
+10/14/2022 12:27:10 PM ********      Read Username     ******
+10/14/2022 12:27:10 PM ********      Read Password     ******
+10/14/2022 12:27:10 PM ********      Read Expected     ******
+10/14/2022 12:27:11 PM ********      Passed      ******
+10/14/2022 12:27:11 PM ********      Read Username     ******
+10/14/2022 12:27:11 PM ********      Read Password     ******
+10/14/2022 12:27:11 PM ********      Read Expected     ******
+10/14/2022 12:27:13 PM ********      Failed      ******
+10/14/2022 12:27:13 PM ********      Read Username     ******
+10/14/2022 12:27:13 PM ********      Read Password     ******
+10/14/2022 12:27:13 PM ********      Read Expected     ******
+10/14/2022 12:27:14 PM ********      Failed      ******
+10/14/2022 12:27:14 PM ********      Read Username     ******
+10/14/2022 12:27:14 PM ********      Read Password     ******
+10/14/2022 12:27:14 PM ********      Read Expected     ******
+10/14/2022 12:27:15 PM ********      Failed      ******
+10/14/2022 12:27:15 PM ****** End of DDT Testing *******
+10/14/2022 12:27:15 PM ***** Completed Test Test_001_Login_DDT ******
+10/14/2022 12:31:21 PM ====== WebDriver manager ======
+10/14/2022 12:31:21 PM Get LATEST chromedriver version for google-chrome 106.0.5249
+10/14/2022 12:31:22 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/14/2022 12:31:23 PM ******** Test_001_Login_DDT ******
+10/14/2022 12:31:23 PM ******** Verifying the Login Data Driven test ******
+10/14/2022 12:31:27 PM ********      Read Username     ******
+10/14/2022 12:31:27 PM ********      Read Password     ******
+10/14/2022 12:31:27 PM ********      Read Expected     ******
+10/14/2022 12:33:32 PM ====== WebDriver manager ======
+10/14/2022 12:33:32 PM Get LATEST chromedriver version for google-chrome 106.0.5249
+10/14/2022 12:33:33 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/14/2022 12:33:34 PM ******** Test_001_Login_DDT ******
+10/14/2022 12:33:34 PM ******** Verifying the Login Data Driven test ******
+10/14/2022 12:33:37 PM ********      Read Username     ******
+10/14/2022 12:33:37 PM ********      Read Password     ******
+10/14/2022 12:33:37 PM ********      Read Expected     ******
+10/14/2022 12:33:39 PM ********      Passed      ****** 
+10/14/2022 12:33:39 PM ********      Read Username     ******
+10/14/2022 12:33:39 PM ********      Read Password     ******
+10/14/2022 12:33:39 PM ********      Read Expected     ******
+10/14/2022 12:33:40 PM ********      Failed      ****** 
+10/14/2022 12:33:40 PM ********      Read Username     ******
+10/14/2022 12:33:40 PM ********      Read Password     ******
+10/14/2022 12:33:40 PM ********      Read Expected     ******
+10/14/2022 12:33:41 PM ********      Failed      ****** 
+10/14/2022 12:33:41 PM ********      Read Username     ******
+10/14/2022 12:33:41 PM ********      Read Password     ******
+10/14/2022 12:33:41 PM ********      Read Expected     ******
+10/14/2022 12:33:43 PM ********      Failed      ****** 
+10/14/2022 12:33:43 PM ****** End of DDT Testing *******
+10/14/2022 12:33:43 PM ***** Completed Test Test_001_Login_DDT ******
+10/14/2022 12:36:46 PM ====== WebDriver manager ======
+10/14/2022 12:36:46 PM Get LATEST chromedriver version for google-chrome 106.0.5249
+10/14/2022 12:36:47 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/14/2022 12:36:48 PM ******** Test_001_Login_DDT ******
+10/14/2022 12:36:48 PM ******** Verifying the Login Data Driven test ******
+10/14/2022 12:37:24 PM ====== WebDriver manager ======
+10/14/2022 12:37:24 PM Get LATEST chromedriver version for google-chrome 106.0.5249
+10/14/2022 12:37:25 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/14/2022 12:37:26 PM ******** Test_001_Login_DDT ******
+10/14/2022 12:37:26 PM ******** Verifying the Login Data Driven test ******
+10/14/2022 12:37:29 PM ********      Read Username     ******
+10/14/2022 12:37:29 PM ********      Read Password     ******
+10/14/2022 12:37:29 PM ********      Read Expected     ******
+10/14/2022 12:37:30 PM ********      Passed      ****** 
+10/14/2022 12:37:30 PM ********      Read Username     ******
+10/14/2022 12:37:30 PM ********      Read Password     ******
+10/14/2022 12:37:30 PM ********      Read Expected     ******
+10/14/2022 12:37:31 PM ********      Failed      ****** 
+10/14/2022 12:37:31 PM ********      Read Username     ******
+10/14/2022 12:37:31 PM ********      Read Password     ******
+10/14/2022 12:37:31 PM ********      Read Expected     ******
+10/14/2022 12:37:33 PM ********      Failed      ****** 
+10/14/2022 12:37:33 PM ********      Read Username     ******
+10/14/2022 12:37:33 PM ********      Read Password     ******
+10/14/2022 12:37:33 PM ********      Read Expected     ******
+10/14/2022 12:37:34 PM ********      Failed      ****** 
+10/14/2022 12:37:34 PM ****** End of DDT Testing *******
+10/14/2022 12:37:34 PM ***** Completed Test Test_001_Login_DDT ******
+10/14/2022 12:40:43 PM ====== WebDriver manager ======
+10/14/2022 12:40:44 PM Get LATEST chromedriver version for google-chrome 106.0.5249
+10/14/2022 12:40:45 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/14/2022 12:40:46 PM ******** Test_001_Login_DDT ******
+10/14/2022 12:40:46 PM ******** Verifying the Login Data Driven test ******
+10/14/2022 12:40:49 PM ********      Read Username     ******
+10/14/2022 12:40:49 PM ********      Read Password     ******
+10/14/2022 12:40:49 PM ********      Read Expected     ******
+10/14/2022 12:40:55 PM ********      Passed      ****** 
+10/14/2022 12:40:55 PM ********      Read Username     ******
+10/14/2022 12:40:55 PM ********      Read Password     ******
+10/14/2022 12:40:55 PM ********      Read Expected     ******
+10/14/2022 12:41:01 PM ********      Failed      ****** 
+10/14/2022 12:41:01 PM ********      Read Username     ******
+10/14/2022 12:41:01 PM ********      Read Password     ******
+10/14/2022 12:41:01 PM ********      Read Expected     ******
+10/14/2022 12:41:06 PM ********      Failed      ****** 
+10/14/2022 12:41:06 PM ********      Read Username     ******
+10/14/2022 12:41:06 PM ********      Read Password     ******
+10/14/2022 12:41:06 PM ********      Read Expected     ******
+10/14/2022 12:41:12 PM ********      Failed      ****** 
+10/14/2022 12:41:12 PM ****** End of DDT Testing *******
+10/14/2022 12:41:12 PM ***** Completed Test Test_001_Login_DDT ******
+10/14/2022 12:44:26 PM ====== WebDriver manager ======
+10/14/2022 12:44:27 PM Get LATEST chromedriver version for google-chrome 106.0.5249
+10/14/2022 12:44:27 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/14/2022 12:44:29 PM ******** Test_001_Login_DDT ******
+10/14/2022 12:44:29 PM ******** Verifying the Login Data Driven test ******
+10/14/2022 12:44:31 PM ********      Read Username     ******
+10/14/2022 12:44:31 PM ********      Read Password     ******
+10/14/2022 12:44:31 PM ********      Read Expected     ******
+10/14/2022 12:44:37 PM ********      Login Title: Passed      ****** 
+10/14/2022 12:44:37 PM ********      Read Username     ******
+10/14/2022 12:44:37 PM ********      Read Password     ******
+10/14/2022 12:44:37 PM ********      Read Expected     ******
+10/14/2022 12:44:43 PM ********      Login Title:Failed     ****** 
+10/14/2022 12:44:43 PM ********      Read Username     ******
+10/14/2022 12:44:43 PM ********      Read Password     ******
+10/14/2022 12:44:43 PM ********      Read Expected     ******
+10/14/2022 12:44:48 PM ********      Login Title:Failed     ****** 
+10/14/2022 12:44:48 PM ********      Read Username     ******
+10/14/2022 12:44:48 PM ********      Read Password     ******
+10/14/2022 12:44:48 PM ********      Read Expected     ******
+10/14/2022 12:44:54 PM ********      Login Title:Failed     ****** 
+10/14/2022 12:44:54 PM ****** End of DDT Testing *******
+10/14/2022 12:44:54 PM ***** Completed Test Test_001_Login_DDT ******
+10/14/2022 12:47:05 PM ====== WebDriver manager ======
+10/14/2022 12:47:05 PM Get LATEST chromedriver version for google-chrome 106.0.5249
+10/14/2022 12:47:06 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/14/2022 12:47:07 PM ******** Test_001_Login_DDT ******
+10/14/2022 12:47:07 PM ******** Verifying the Login Data Driven test ******
+10/14/2022 12:47:10 PM ********      Read Username     ******
+10/14/2022 12:47:10 PM ********      Read Password     ******
+10/14/2022 12:47:10 PM ********      Read Expected     ******
+10/14/2022 12:47:17 PM ********      Login Title: Passed      ****** 
+10/14/2022 12:47:17 PM ********      Read Username     ******
+10/14/2022 12:47:17 PM ********      Read Password     ******
+10/14/2022 12:47:17 PM ********      Read Expected     ******
+10/14/2022 12:47:24 PM ********      Login Title:Failed     ****** 
+10/14/2022 12:47:24 PM ********      Read Username     ******
+10/14/2022 12:47:24 PM ********      Read Password     ******
+10/14/2022 12:47:24 PM ********      Read Expected     ******
+10/14/2022 12:47:30 PM ********      Login Title:Failed     ****** 
+10/14/2022 12:47:30 PM ********      Read Username     ******
+10/14/2022 12:47:30 PM ********      Read Password     ******
+10/14/2022 12:47:30 PM ********      Read Expected     ******
+10/14/2022 12:47:37 PM ********      Login Title:Failed     ****** 
+10/14/2022 12:47:37 PM ****** End of DDT Testing *******
+10/14/2022 12:47:37 PM ***** Completed Test Test_001_Login_DDT ******
+10/14/2022 12:49:20 PM ====== WebDriver manager ======
+10/14/2022 12:49:20 PM Get LATEST chromedriver version for google-chrome 106.0.5249
+10/14/2022 12:49:21 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/14/2022 12:49:22 PM ******** Test_001_Login_DDT ******
+10/14/2022 12:49:22 PM ******** Verifying the Login Data Driven test ******
+10/14/2022 12:49:25 PM ********      Read Username     ******
+10/14/2022 12:49:25 PM ********      Read Password     ******
+10/14/2022 12:49:25 PM ********      Read Expected     ******
+10/14/2022 12:49:36 PM ********      Dashboard Title: Passed   ****** 
+10/14/2022 12:49:36 PM ********      Read Username     ******
+10/14/2022 12:49:36 PM ********      Read Password     ******
+10/14/2022 12:49:36 PM ********      Read Expected     ******
+10/14/2022 12:50:58 PM ====== WebDriver manager ======
+10/14/2022 12:50:58 PM Get LATEST chromedriver version for google-chrome 106.0.5249
+10/14/2022 12:50:59 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/14/2022 12:51:00 PM ******** Test_001_Login_DDT ******
+10/14/2022 12:51:00 PM ******** Verifying the Login Data Driven test ******
+10/14/2022 12:51:02 PM ********      Read Username     ******
+10/14/2022 12:51:02 PM ********      Read Password     ******
+10/14/2022 12:51:02 PM ********      Read Expected     ******
+10/14/2022 12:51:12 PM ********      Dashboard Title: Passed   ****** 
+10/14/2022 12:51:13 PM ********      Read Username     ******
+10/14/2022 12:51:13 PM ********      Read Password     ******
+10/14/2022 12:51:13 PM ********      Read Expected     ******
+10/14/2022 12:51:20 PM ********      Login Title:Failed     ****** 
+10/14/2022 12:53:29 PM ====== WebDriver manager ======
+10/14/2022 12:53:29 PM Get LATEST chromedriver version for google-chrome 106.0.5249
+10/14/2022 12:53:30 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/14/2022 12:53:31 PM ******** Test_001_Login_DDT ******
+10/14/2022 12:53:31 PM ******** Verifying the Login Data Driven test ******
+10/14/2022 12:53:34 PM ********      Read Username     ******
+10/14/2022 12:53:34 PM ********      Read Password     ******
+10/14/2022 12:53:34 PM ********      Read Expected     ******
+10/14/2022 12:53:43 PM ********      Dashboard Title: Passed   ****** 
+10/14/2022 12:53:45 PM ********      Read Username     ******
+10/14/2022 12:53:45 PM ********      Read Password     ******
+10/14/2022 12:53:45 PM ********      Read Expected     ******
+10/14/2022 12:53:52 PM ********      Login Title:Failed     ****** 
+10/14/2022 12:53:52 PM ********      Read Username     ******
+10/14/2022 12:53:52 PM ********      Read Password     ******
+10/14/2022 12:53:52 PM ********      Read Expected     ******
+10/14/2022 12:53:58 PM ********      Login Title:Failed     ****** 
+10/14/2022 12:53:58 PM ********      Read Username     ******
+10/14/2022 12:53:58 PM ********      Read Password     ******
+10/14/2022 12:53:58 PM ********      Read Expected     ******
+10/14/2022 12:54:05 PM ********      Login Title:Failed     ****** 
+10/14/2022 12:54:05 PM ****** End of DDT Testing *******
+10/14/2022 12:54:05 PM ***** Completed Test Test_001_Login_DDT ******
+10/14/2022 01:48:58 PM ====== WebDriver manager ======
+10/14/2022 01:49:00 PM Get LATEST chromedriver version for google-chrome 106.0.5249
+10/14/2022 01:49:00 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/14/2022 01:49:02 PM ******** Test_001_Login_DDT ******
+10/14/2022 01:49:02 PM ******** Verifying the Login Data Driven test ******
+10/14/2022 01:49:05 PM ********      Read Username     ******
+10/14/2022 01:49:05 PM ********      Read Password     ******
+10/14/2022 01:49:05 PM ********      Read Expected     ******
+10/14/2022 01:49:16 PM ********      Dashboard Title: Passed   ****** 
+10/14/2022 01:49:17 PM ********      Read Username     ******
+10/14/2022 01:49:17 PM ********      Read Password     ******
+10/14/2022 01:49:17 PM ********      Read Expected     ******
+10/14/2022 01:49:24 PM ******** FAIL: Title is not as expected ****** 
+10/14/2022 01:49:24 PM ********      Read Username     ******
+10/14/2022 01:49:24 PM ********      Read Password     ******
+10/14/2022 01:49:24 PM ********      Read Expected     ******
+10/14/2022 01:49:31 PM ******** FAIL: Title is not as expected ****** 
+10/14/2022 01:49:31 PM ********      Read Username     ******
+10/14/2022 01:49:31 PM ********      Read Password     ******
+10/14/2022 01:49:31 PM ********      Read Expected     ******
+10/14/2022 01:49:37 PM ******** FAIL: Title is not as expected ****** 
+10/14/2022 01:49:37 PM ****** End of DDT Testing *******
+10/14/2022 01:49:37 PM ***** Completed Test Test_001_Login_DDT ******
+10/14/2022 01:53:15 PM ====== WebDriver manager ======
+10/14/2022 01:53:15 PM Get LATEST chromedriver version for google-chrome 106.0.5249
+10/14/2022 01:53:16 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/14/2022 01:53:17 PM ******** Test_001_Login_DDT ******
+10/14/2022 01:53:17 PM ******** Verifying the Login Data Driven test ******
+10/14/2022 01:53:20 PM ********      Read Username     ******
+10/14/2022 01:53:20 PM ********      Read Password     ******
+10/14/2022 01:53:20 PM ********      Read Expected     ******
+10/14/2022 01:53:31 PM ********  PASSED: Title is not as expected  ****** 
+10/14/2022 01:53:32 PM ********      Read Username     ******
+10/14/2022 01:53:32 PM ********      Read Password     ******
+10/14/2022 01:53:32 PM ********      Read Expected     ******
+10/14/2022 01:53:39 PM ******** FAIL: Title is not as expected ****** 
+10/14/2022 01:53:39 PM ********      Read Username     ******
+10/14/2022 01:53:39 PM ********      Read Password     ******
+10/14/2022 01:53:39 PM ********      Read Expected     ******
+10/14/2022 01:53:46 PM ******** FAIL: Title is not as expected ****** 
+10/14/2022 01:53:46 PM ********      Read Username     ******
+10/14/2022 01:53:46 PM ********      Read Password     ******
+10/14/2022 01:53:46 PM ********      Read Expected     ******
+10/14/2022 01:53:53 PM ******** FAIL: Title is not as expected ****** 
+10/14/2022 01:53:53 PM ****** End of DDT Testing *******
+10/14/2022 01:53:53 PM ***** Completed Test Test_001_Login_DDT ******
+10/14/2022 02:01:17 PM ====== WebDriver manager ======
+10/14/2022 02:01:18 PM Get LATEST chromedriver version for google-chrome 106.0.5249
+10/14/2022 02:01:19 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/14/2022 02:01:20 PM ******** Test_001_Login_DDT ******
+10/14/2022 02:01:20 PM ******** Verifying the Login Data Driven test ******
+10/14/2022 02:01:24 PM ********      Read Username     ******
+10/14/2022 02:01:24 PM ********      Read Password     ******
+10/14/2022 02:01:24 PM ********      Read Expected     ******
+10/14/2022 02:01:36 PM ********  PASSED: Title is not as expected  ****** 
+10/14/2022 02:01:38 PM ********      Read Username     ******
+10/14/2022 02:01:38 PM ********      Read Password     ******
+10/14/2022 02:01:38 PM ********      Read Expected     ******
+10/14/2022 02:01:46 PM ******** FAIL: Title is not as expected ****** 
+10/14/2022 02:01:46 PM ********      Read Username     ******
+10/14/2022 02:01:46 PM ********      Read Password     ******
+10/14/2022 02:01:46 PM ********      Read Expected     ******
+10/14/2022 02:01:55 PM ******** FAIL: Title is not as expected ****** 
+10/14/2022 02:01:55 PM ********      Read Username     ******
+10/14/2022 02:01:55 PM ********      Read Password     ******
+10/14/2022 02:01:55 PM ********      Read Expected     ******
+10/14/2022 02:02:04 PM ******** FAIL: Title is not as expected ****** 
+10/14/2022 02:02:04 PM ****** End of DDT Testing *******
+10/14/2022 02:02:04 PM ***** Completed Test Test_001_Login_DDT ******
+10/14/2022 02:03:23 PM ====== WebDriver manager ======
+10/14/2022 02:03:23 PM Get LATEST chromedriver version for google-chrome 106.0.5249
+10/14/2022 02:03:24 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/14/2022 02:03:25 PM ******** Test_001_Login_DDT ******
+10/14/2022 02:03:25 PM ******** Verifying the Login Data Driven test ******
+10/14/2022 02:03:28 PM ********      Read Username     ******
+10/14/2022 02:03:28 PM ********      Read Password     ******
+10/14/2022 02:03:28 PM ********      Read Expected     ******
+10/14/2022 02:03:41 PM ********      Dashboard Title: Passed   ****** 
+10/14/2022 02:03:43 PM ********      Read Username     ******
+10/14/2022 02:03:43 PM ********      Read Password     ******
+10/14/2022 02:03:43 PM ********      Read Expected     ******
+10/14/2022 02:03:51 PM ******** FAIL: Title is not as expected ****** 
+10/14/2022 02:03:51 PM ********      Read Username     ******
+10/14/2022 02:03:51 PM ********      Read Password     ******
+10/14/2022 02:03:51 PM ********      Read Expected     ******
+10/14/2022 02:04:00 PM ******** FAIL: Title is not as expected ****** 
+10/14/2022 02:04:00 PM ********      Read Username     ******
+10/14/2022 02:04:00 PM ********      Read Password     ******
+10/14/2022 02:04:00 PM ********      Read Expected     ******
+10/14/2022 02:04:09 PM ******** FAIL: Title is not as expected ****** 
+10/14/2022 02:04:09 PM ****** End of DDT Testing *******
+10/14/2022 02:04:09 PM ***** Completed Test Test_001_Login_DDT ******
+10/14/2022 02:21:01 PM ====== WebDriver manager ======
+10/14/2022 02:21:02 PM Get LATEST chromedriver version for google-chrome 106.0.5249
+10/14/2022 02:21:03 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/14/2022 02:21:04 PM ******** Test_001_Login_DDT ******
+10/14/2022 02:21:04 PM ******** Verifying the Login Data Driven test ******
+10/14/2022 02:21:06 PM *****  Read Username from sheet *****
+10/14/2022 02:21:06 PM *****  Read Password from sheet ******
+10/14/2022 02:21:06 PM ***** Read Expected from sheet ******
+10/14/2022 02:21:17 PM *****  PASS: Dashboard title is expected  ***** 
+10/14/2022 02:21:19 PM *****  Read Username from sheet *****
+10/14/2022 02:21:19 PM *****  Read Password from sheet ******
+10/14/2022 02:21:19 PM ***** Read Expected from sheet ******
+10/14/2022 02:21:27 PM ***** FAIL: Login credential and Title is not as expected ,status is 'FAIL'  ***** 
+10/14/2022 02:21:27 PM *****  Read Username from sheet *****
+10/14/2022 02:21:27 PM *****  Read Password from sheet ******
+10/14/2022 02:21:27 PM ***** Read Expected from sheet ******
+10/14/2022 02:21:36 PM ***** FAIL: Login credential and Title is not as expected ,status is 'FAIL'  ***** 
+10/14/2022 02:21:36 PM *****  Read Username from sheet *****
+10/14/2022 02:21:36 PM *****  Read Password from sheet ******
+10/14/2022 02:21:36 PM ***** Read Expected from sheet ******
+10/14/2022 02:21:45 PM ***** FAIL: Login credential and Title is not as expected ,status is 'FAIL'  ***** 
+10/14/2022 02:21:45 PM ****** End of DDT Testing *******
+10/14/2022 02:21:45 PM ***** Completed Test Test_001_Login_DDT ******
+10/14/2022 02:43:55 PM ====== WebDriver manager ======
+10/14/2022 02:43:55 PM Get LATEST chromedriver version for google-chrome 106.0.5249
+10/14/2022 02:43:56 PM Driver [C:\Users\Achal Trivedi\.wdm\drivers\chromedriver\win32\106.0.5249\chromedriver.exe] found in cache
+10/14/2022 02:43:57 PM ******** Test_001_Login_DDT ******
+10/14/2022 02:43:57 PM ******** Verifying the Login Data Driven test ******
+10/14/2022 02:44:00 PM *****  Read Username from sheet *****
+10/14/2022 02:44:00 PM *****  Read Password from sheet ******
+10/14/2022 02:44:00 PM ***** Read Expected from sheet ******
+10/14/2022 02:44:12 PM *****  PASS: Dashboard title is expected  ***** 
+10/14/2022 02:44:13 PM *****  Read Username from sheet *****
+10/14/2022 02:44:13 PM *****  Read Password from sheet ******
+10/14/2022 02:44:13 PM ***** Read Expected from sheet ******
+10/14/2022 02:44:22 PM *****  Read Username from sheet *****
+10/14/2022 02:44:22 PM *****  Read Password from sheet ******
+10/14/2022 02:44:22 PM ***** Read Expected from sheet ******
+10/14/2022 02:44:31 PM *****  Read Username from sheet *****
+10/14/2022 02:44:31 PM *****  Read Password from sheet ******
+10/14/2022 02:44:31 PM ***** Read Expected from sheet ******
+10/14/2022 02:44:40 PM ***** End of DDT Testing *****
+10/14/2022 02:44:40 PM ***** Completed test_Login_DDT *****
