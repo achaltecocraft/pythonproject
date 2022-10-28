@@ -17,15 +17,15 @@ from selenium.webdriver.edge.service import Service as EdgeService
 
 @pytest.fixture
 def setup(browser):
-   if browser == 'Edge':
-        driver = webdriver.Edge(service=EdgeService(EdgeChromiumDriverManager().install()))
-        print("Edge Browser is Launching.....")
+   if browser == 'chrome':
+      driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
+      print("Chrome Browser is Launching.....")
    elif browser == 'firefox':
       driver = webdriver.Firefox(service=Service(GeckoDriverManager().install()))
       print("Firefox Browser is Launching.....")
    else:
-      driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
-      print("Chrome Browser is Launching.....")
+      driver = webdriver.Edge(service=EdgeService(EdgeChromiumDriverManager().install()))
+      print("Edge Browser is Launching.....")
    return driver
 
 #without 'service=Service' gives warning in terminal:- "DeprecationWarning: executable_path"
