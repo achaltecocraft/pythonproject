@@ -25,7 +25,7 @@ class Test_001_Login:
         print("\nTest 1: Verify the Login Page title")
         act_title = self.driver.title
 
-        if act_title == "Your store. Login123":
+        if act_title == "Your store. Login":
             print("Login Page Title is as expected\n")
             self.logger.info("******** Test 1: PASSED Login page title is verified ******")
             self.driver.close()
@@ -50,7 +50,7 @@ class Test_001_Login:
         self.lp.clickLogin()
         act_title = self.driver.title
 
-        if act_title == "Dashboard / nopCommerce administration123":
+        if act_title == "Dashboard / nopCommerce administration":
             assert True
             print("Dashboard Title is as expected\n")
             self.logger.info("******** Test 2: PASSED Dashboard Title is as expected ******")
